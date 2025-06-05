@@ -1,0 +1,18 @@
+{
+  "title": "Jelovnik - Hotel Kole",
+  "description": "Bilo da uživate u laganim obrocima, bogatim specijalitetima ili slatkim poslasticama, svaki zalogaj u Hotelu Kole obećava vrhunsko gastronomsko iskustvo.",
+  "icons": "/images/favicon.ico",
+  "openGraph": {
+    "title": "Jelovnik- Hotel Kole",
+    "description": "Bilo da uživate u laganim obrocima, bogatim specijalitetima ili slatkim poslasticama, svaki zalogaj u Hotelu Kole obećava vrhunsko gastronomsko iskustvo.",
+    "images": [
+      {
+        "url": "/images/menu/intro-image.jpg",
+        "width": 800,
+        "height": 600,
+        "alt": "Stranica Kongresni centar baner"
+      }
+    ],
+    "type": "website"
+  }
+}

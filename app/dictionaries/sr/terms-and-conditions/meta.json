@@ -1,0 +1,18 @@
+{
+  "title": "Pravila i uslovi korišćenja - Hotel Kole",
+  "description": "Saznajte sve informacije o pravilima i uslovima boravka u Hotelu Kole. Upoznajte se sa politikom otkazivanja, prijave i odjave, kao i uslugama hotela.",
+  "icons": "/images/favicon.ico",
+  "openGraph": {
+    "title": "Pravila i uslovi korišćenja - Hotel Kole",
+    "description": "Saznajte sve informacije o pravilima i uslovima boravka u Hotelu Kole. Upoznajte se sa politikom otkazivanja, prijave i odjave, kao i uslugama hotela.",
+    "images": [
+      {
+        "url": "/images/home/banner.jpg",
+        "width": 800,
+        "height": 600,
+        "alt": "Stranica Pravila i uslovi korišćenja baner"
+      }
+    ],
+    "type": "website"
+  }
+}

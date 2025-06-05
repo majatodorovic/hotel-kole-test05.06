@@ -1,0 +1,33 @@
+{
+  "intro": {
+    "img": "/images/restaurant/intro-image.jpg",
+    "heading": "Traditional flavors and chosen specialties",
+    "paragraphs": [
+      "Our restaurant has a capacity of up to 180 guests and is located on the first floor, in close proximity to the reception, aperitif bar, and terrace. The carefully designed space is sure to make a strong impression, and the atmosphere we provide will make you feel right at home. Enjoy our traditional specialties and selected wine labels from around the world. Our open buffet breakfast option is the perfect way to start your day – with fresh, homemade ingredients that will make your start of the day special."
+    ],
+    "btn": {
+      "href": "/menu",
+      "text": "SEE THE MENU"
+    }
+  },
+  "gallery": [
+    {
+      "src": "/images/restaurant/restaurant-1.jpg"
+    },
+    {
+      "src": "/images/restaurant/restaurant-2.jpg"
+    },
+    {
+      "src": "/images/restaurant/restaurant-3.jpg"
+    },
+    {
+      "src": "/images/restaurant/restaurant-4.jpg"
+    },
+    {
+      "src": "/images/restaurant/restaurant-5.jpg"
+    },
+    {
+      "src": "/images/restaurant/restaurant-6.jpg"
+    }
+  ]
+}

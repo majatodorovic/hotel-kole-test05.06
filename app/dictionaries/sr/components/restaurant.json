@@ -1,0 +1,597 @@
+{
+  "subheading": "JELOVNIK",
+  "heading": "Ukusi našeg restorana",
+  "items": [
+    {
+      "categories": [
+        {
+          "category": "Doručak",
+          "items": [
+            {
+              "name": "Omlet sa šunkom i topljenim sirom"
+            },
+            {
+              "name": "Omlet sa pečurkama"
+            },
+            {
+              "name": "Jaja na oko sa hrskavom slaninom, rukolom i mocarelom"
+            },
+            {
+              "name": "Gurmanski doručak \"Kole\"",
+              "description": "(2 jaja, pečurke punjene ajvarom i sirom, slanina, čvarci)"
+            },
+            { "name": "Kačamak" },
+            {
+              "name": "Prženice"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Topla i hladna predjela",
+          "items": [
+            {
+              "name": "Biftek rolnice sa prelivom od semena bundeve"
+            },
+            {
+              "name": "Prolećne rolnice od gambora"
+            },
+            {
+              "name": "Karpaćo od bifteka"
+            },
+            {
+              "name": "Tartar biftek"
+            },
+            {
+              "name": "Tartar od gambora"
+            },
+            {
+              "name": "Selekcija pršute i sira",
+              "description": "(za dve osobe)\n"
+            },
+            {
+              "name": "Pašteta od ribe"
+            },
+            {
+              "name": "Brusketi sa dimljenim lososom"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Čorbe i potaži",
+          "items": [
+            {
+              "name": "Teleća čorba"
+            },
+            {
+              "name": "Bistra supa"
+            },
+            {
+              "name": "Potaž dana"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Paste i rižota",
+          "items": [
+            {
+              "name": "Pene sa ćuretinom u pesto sosu"
+            },
+            {
+              "name": "Taljatele sa biftekom i tartufima"
+            },
+            {
+              "name": "Špagete karbonara"
+            },
+            {
+              "name": "Špagete sa gamborima i šafranom"
+            },
+            {
+              "name": "Rižoto sa morskim plodovima"
+            },
+            {
+              "name": "Njoke sa gamborima i tartufima"
+            },
+            {
+              "name": "Rižoto sa tri vrste pečuraka"
+            },
+            {
+              "name": "Pene cubana"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Jela sa roštilja",
+          "items": [
+            {
+              "name": "Ćevapi na aromatizovanom kajmaku"
+            },
+            {
+              "name": "Rolovana piletina u krem siru i slanini"
+            },
+            {
+              "name": "Ćureća taljata u sosu od gorgonzole"
+            },
+            {
+              "name": "Biftek na žaru sa aromatičnim povrćem",
+              "img": "/images/restaurant/hrana-1.jpg"
+            },
+            {
+              "name": "Dimljeni vrat sa salsom od mladog luka"
+            },
+            {
+              "name": "Piletina na šumadijski način"
+            },
+            {
+              "name": "Pileći file na žaru"
+            },
+            {
+              "name": "Karađorđeva šnicla"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Specijaliteti restorana \"Kole\"",
+          "items": [
+            {
+              "name": "Welington biftek"
+            },
+            {
+              "name": "Selekcija jagnjetine u sosu od crvenog vina"
+            },
+            {
+              "name": "Gambori na buzari"
+            },
+            {
+              "name": "Zapečena hobotnica na aromatizovanom povrću"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Dry Ager",
+          "items": [
+            {
+              "name": "T-bone steak (kg)",
+              "img": "/images/restaurant/hrana-6.png"
+            },
+            {
+              "name": "Rib-eye steak (kg)"
+            },
+            {
+              "name": "Tomahawk steak (kg)"
+            },
+            {
+              "description": "*meso korišćeno u pripremi je odležalo 40 dana u specijalnoj komori za zrenje mesa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Riba i morski plodovi",
+          "items": [
+            {
+              "name": "File orade/brancina sa salsom od maslina"
+            },
+            {
+              "name": "File lososa na pireu od graska"
+            },
+            {
+              "name": "File pastrmke"
+            },
+            {
+              "name": "Gambori na žaru"
+            },
+            {
+              "name": "Lignje na žaru"
+            },
+            {
+              "name": "Pržene lignje"
+            },
+            {
+              "name": "Hobotnica na žaru"
+            },
+            {
+              "name": "Jastog (kg)"
+            },
+
+            { "description": "-San Pjer" },
+            { "description": "-Grdoba" },
+            { "description": "-Zubatac" },
+            { "description": "-Orada" },
+            { "description": "-Brancin" },
+            { "description": "-Smuđ" }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Obrok salate",
+          "items": [
+            {
+              "name": "Karpeze salata"
+            },
+            {
+              "name": "Egzotična salata sa gamborima"
+            },
+            {
+              "name": "Salata od hobotnice"
+            },
+            {
+              "name": "Salata sa biftekom i pinjolima"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Salate",
+          "items": [
+            {
+              "name": "Bašta salata"
+            },
+            {
+              "name": "Šopska salata"
+            },
+            {
+              "name": "Pečena paprika"
+            },
+            {
+              "name": "Grčka salata"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Pice",
+          "items": [
+            {
+              "name": "Kaprićoza"
+            },
+            {
+              "name": "Diavolo"
+            },
+            {
+              "name": "Quattro stagione"
+            },
+            {
+              "name": "Pica sa hrskavom piletinom i rukolom"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Dezerti",
+          "items": [
+            {
+              "name": "Cheese cake sa karamelom i pistaćima",
+              "img": "/images/restaurant/hrana-5.png"
+            },
+            {
+              "name": "Čokoladni tart sa saladoledom",
+              "img": "/images/restaurant/hrana-3.jpg"
+            },
+            {
+              "name": "Pečeni kolač od jabuke sa sladoledom od vanile",
+              "img": "/images/restaurant/hrana-4.jpg"
+            },
+            {
+              "name": "Baklava"
+            },
+            {
+              "name": "Kolač dana"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Sosevi",
+          "items": [
+            {
+              "name": "Sos od zelenog bibera"
+            },
+            {
+              "name": "Sos od pečuraka"
+            },
+            {
+              "name": "Sos od karamelizovanog luka"
+            },
+            {
+              "name": "Sos od gorgonzole"
+            },
+            {
+              "name": "Sos od tartufa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Kuver",
+          "items": [
+            {
+              "name": "Hleb, pašteta, namaz od sira"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Topli napici",
+          "items": [
+            {
+              "name": "Kafa"
+            },
+            {
+              "name": "Espresso"
+            },
+            {
+              "name": "Kapućino"
+            },
+            {
+              "name": "Nes Kafa"
+            },
+            {
+              "name": "Topla čokolada"
+            },
+            {
+              "name": "Čaj"
+            },
+            {
+              "name": "Kuvana rakija"
+            },
+            {
+              "name": "Kuvano vino"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Bezalkoholna pića",
+          "items": [
+            {
+              "name": "Mineralna gazirana voda 0,33"
+            },
+            {
+              "name": "Mineralna negazirana voda 0,33"
+            },
+            {
+              "name": "Mineralna gazirana voda 1l"
+            },
+            {
+              "name": "Mineralna negazirana voda 1l"
+            },
+            {
+              "name": "Coca Cola, Fnata, Sprite 0,25"
+            },
+            {
+              "name": "Tonik, Bitter lemon 0,25"
+            },
+            {
+              "name": "Cocta 0,25"
+            },
+            {
+              "name": "Red Bull 0,25"
+            },
+            {
+              "name": "Guarana 0,25"
+            },
+            {
+              "name": "Sok flašica 0,2"
+            },
+            {
+              "name": "Kvas 0,33"
+            },
+            {
+              "name": "Ceđena pomorandža 0,2"
+            },
+            {
+              "name": "Limunada 0,2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Pivo",
+          "items": [
+            {
+              "name": "Kabinet Brka"
+            },
+            {
+              "name": "Heineken 0,25"
+            },
+            {
+              "name": "Staropramen 0,33"
+            },
+            {
+              "name": "Jelen 0,33"
+            },
+            {
+              "name": "Nikšićko 0,33"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Žestoka pića",
+          "items": [
+            {
+              "name": "Gin 0,03 40% alk."
+            },
+            {
+              "name": "Smirnoff vodka 0,03 40% alk."
+            },
+            {
+              "name": "Grey goose vodka 0,03 40% alk."
+            },
+            {
+              "name": "Tequila Two fingers 0,03 40% alk."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Aperitivi",
+          "items": [
+            {
+              "name": "Campari Bitter 0,03 32% alk."
+            },
+            {
+              "name": "Vermouth Martini /bianco, rosso/ 0,03 16% alk."
+            },
+            {
+              "name": "Jagermeister 0,03 35% alk."
+            },
+            {
+              "name": "Baileys 0,03 35% alk."
+            },
+            {
+              "name": "Gorki list 0,03 35% alk."
+            },
+            {
+              "name": "Aperol spritz 0,03 35% alk."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Rakija",
+          "items": [
+            {
+              "name": "Jelički dukat 0,03 45% alk."
+            },
+            {
+              "name": "Biserka 0,03 45% alk."
+            },
+            {
+              "name": "Dragačevka zlatna 0,03 45% alk."
+            },
+            {
+              "name": "Licura 0,03 45% alk."
+            },
+            {
+              "name": "Dunjevača 0,03 40% alk."
+            },
+            {
+              "name": "Kajsijevača 0,03 40% alk."
+            },
+            {
+              "name": "Lozovača 0,03 47% alk."
+            },
+            {
+              "name": "Viljamovka 0,03 40% alk."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Viski",
+          "items": [
+            {
+              "name": "Chivas Regal /12 years old/ 0,03 40% alk."
+            },
+            {
+              "name": "Johnnie Walker 0,03 43% alk."
+            },
+            {
+              "name": "Johnnie Walker /Black label/ 0,03 40% alk."
+            },
+            {
+              "name": "Ballentines 0,03 43% alk."
+            },
+            {
+              "name": "Four roses 0,03 40% alk."
+            },
+            {
+              "name": "Jack Daniels 0,03 43% alk."
+            },
+            {
+              "name": "Jack Daniels /single barel/ 0,03 47% alk."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Konjak i Vinjak",
+          "items": [
+            {
+              "name": "Courvoisier X.O. 0,03 40% alk."
+            },
+            {
+              "name": "Courvoisier V.S.O.P. 0,03 40% alk."
+            },
+            {
+              "name": "Hennesy V.S. 0,03 40% alk."
+            },
+            {
+              "name": "Vinjak 5 0,03 40% alk."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

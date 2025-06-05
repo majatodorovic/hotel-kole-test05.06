@@ -1,0 +1,18 @@
+{
+  "title": "Menu- Hotel Kole",
+  "description": "Whether you enjoy light meals, rich specialties or sweet treats, every bite at Hotel Kole promises a top gastronomic experience.",
+  "icons": "/images/favicon.ico",
+  "openGraph": {
+    "title": "Menu - Hotel Kole",
+    "description": "Whether you enjoy light meals, rich specialties or sweet treats, every bite at Hotel Kole promises a top gastronomic experience.",
+    "images": [
+      {
+        "url": "/images/menu/intro-image.jpg",
+        "width": 800,
+        "height": 600,
+        "alt": "Page Congress Center banner"
+      }
+    ],
+    "type": "website"
+  }
+}

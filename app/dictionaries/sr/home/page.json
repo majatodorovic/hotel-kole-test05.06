@@ -1,0 +1,109 @@
+{
+  "aboutUs": {
+    "subheading": "O NAMA",
+    "heading": "DOBRO NAM DOŠLI",
+    "paragraphs": [
+      "Nalazimo se u Konjevićima, na samo tri kilometra od centra Čačka, uz magistralni put Beograd-Podgorica. Idealno mesto da odmorite usput, prezalogajite nešto i uživate u našem ambijentu."
+    ],
+    "btn": {
+      "href": "/about-us",
+      "text": "SAZNAJTE VIŠE"
+    },
+    "luxRoom": {
+      "heading": "Luksuzne sobe",
+      "paragraph": "Kapacitet hotela je 37 smeštajnih jedinica od kojih su dva Queen i jedan King apartman."
+    },
+    "taste": {
+      "heading": "Prefinjeni ukusi",
+      "paragraph": "Ponosimo se širokim spektrom autentičnih domaćih i svetskih specijaliteta u gastronomskoj ponudi Čačka."
+    }
+  },
+  "apartments": {
+    "subheading": "SOBE I APARTMANI",
+    "heading": "Vaš idealan odmor počinje ovde"
+  },
+  "benefits": {
+    "subheading": "BENEFITI",
+    "heading": "Prednosti koje izdvajamo",
+    "list": [
+      {
+        "icon": "/images/home/kuwait.png",
+        "heading": "Idealna lokacija",
+        "p": "Naša lokacija omogućava jednostavan pristup svim glavnim atrakcijama, savršena za istraživanje grada i okolnih znamenitosti."
+      },
+      {
+        "icon": "/images/home/bed.png",
+        "heading": "Komforan smeštaj",
+        "p": "Sobe i apartmani dizajnirani su sa pažnjom na detalje, pružajući maksimalan komfor i modernu opremljenost za ugodan boravak."
+      },
+      {
+        "icon": "/images/home/taste.png",
+        "heading": "Vrhunska gastronomija",
+        "p": "Uživajte u raznovrsnim specijalitetima pripremljenim od najkvalitetnijih namirnica uz bogatu ponudu vina iz najpoznatijih vinogorja sveta."
+      },
+      {
+        "icon": "/images/home/puzzle-pieces.png",
+        "heading": "Raznovrsne aktivnosti",
+        "p": "Pored opuštanja, nudimo razne aktivnosti kao što su vođene ture, sportski sadržaji i izleti, što omogućava gostima da istraže lokalnu kulturu i prirodu."
+      },
+      {
+        "icon": "/images/home/free-parking.png",
+        "heading": "Besplatan Wi-Fi i parking",
+        "p": "Gostima je na raspolaganju besplatan Wi-Fi u celom objektu, kao i obezbeđen parking za bezbrižno uživanje."
+      },
+      {
+        "icon": "/images/home/happy.png",
+        "heading": "Ljubazno osoblje",
+        "p": "Naš tim je tu da vam obezbedi vrhunsku uslugu i učini vaš boravak nezaboravnim, sa individualnim pristupom svakom gostu."
+      }
+    ]
+  },
+  "restaurant": {
+    "subheading": "RESTORAN",
+    "heading": "Tradicionalni ukusi i izabrani specijaliteti",
+    "paragraphs": [
+      "Naš restoran ima kapacitet do 180 gostiju i nalazi se na prvom spratu, u neposrednoj blizini recepcije, aperitiv bara i terase. Pažljivo osmišljen dizajn prostora sigurno će ostaviti snažan utisak, a atmosfera koju pružamo učiniće da se osećate kao kod kuće. Uživajte u našim tradicionalnim specijalitetima i biranim vinskim etiketama iz celog sveta. Naša opcija open buffet doručka savršen je način da započnete dan – sa svežim, domaćim namirnicama koje će vaš početak dana učiniti posebnim."
+    ],
+    "btn": {
+      "href": "/gallery",
+      "text": "POGLEDAJTE GALERIJU"
+    }
+  },
+  "foodMenu": {
+    "subheading": "JELOVNIK",
+    "heading": "Ukusi našeg restorana",
+    "paragraphs": [
+      "Restoran kapaciteta 180 gostiju smešten je na prvom spratu, u nivou recepcije, aperitiv bara i prostrane terase. Ovaj prefinjeni prostor predstavlja savršen spoj modernog industrijskog dizajna i vrhunske gastronomske ponude, obogaćene pažljivo odabranim vinskim etiketama iz najpoznatijih vinogorja sveta. Naš bogati doručak na principu open buffet-a pruža idealan početak dana, sa raznovrsnim specijalitetima koji će zadovoljiti i najzahtevnija nepca."
+    ],
+    "btn": {
+      "href": "/gallery",
+      "text": "POGLEDAJTE GALERIJU"
+    }
+  },
+  "location": [
+    {
+      "icon": "/images/home/cityscape.png",
+      "distance": "3",
+      "unit": "km",
+      "text": "Čačak – centar grada"
+    },
+    {
+      "icon": "/images/home/store.png",
+      "distance": "600",
+      "unit": "m",
+      "text": "Hipermarket"
+    },
+    {
+      "icon": "/images/home/bus-stop.png",
+      "distance": "3",
+      "unit": "km",
+      "text": "Autobuska stanica"
+    },
+    {
+      "icon": "/images/home/hospital.png",
+      "distance": "700",
+      "unit": "m",
+      "text": "Ambulanta"
+    }
+  ]
+}

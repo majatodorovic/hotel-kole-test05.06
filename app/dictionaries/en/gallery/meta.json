@@ -1,0 +1,18 @@
+{
+  "title": "Gallery - Hotel Kole",
+  "description": "Look at the picture gallery and find out what kind of atmosphere you can enjoy during your stay at Hotel Kole",
+  "icons": "/images/favicon.ico",
+  "openGraph": {
+    "title": "Gallery - Hotel Kole",
+    "description": "Look at the picture gallery and find out what kind of atmosphere you can enjoy during your stay at Hotel Kole",
+    "images": [
+      {
+        "url": "/images/gallery/intro-image.jpg",
+        "width": 800,
+        "height": 600,
+        "alt": "Page Gallery banner"
+      }
+    ],
+    "type": "website"
+  }
+}

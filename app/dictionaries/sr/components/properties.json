@@ -1,0 +1,61 @@
+{
+  "linkText": "SAZNAJTE VIŠE",
+  "subheading": "UTP MORAVA",
+  "heading": "Objekti u našoj grupaciji",
+  "links": [
+    {
+      "href": "/",
+      "text": "Hotel Morava",
+      "p": "Smeštajni kapacitet restorana Morava nalazi se na Bulevaru Vuka Karadžića u srcu Čačka. U ponudi su 24 smeštajne jedinice i 4 LUX apartmana, što ga čini idealnim za sve vrste proslava. Ova savremena sala za događaje, koja može primiti do 500 osoba, oduševiće vas prelepim ambijentom i specijalitetima nacionalne kuhinje.",
+      "img": "/images/properties/hotel-morava.jpg"
+    },
+    {
+      "href": "https://www.hotel-beograd.rs/",
+      "text": "Hotel Beograd",
+      "p": "Hotel Beograd je jedini hotel pozicioniran na pešačkoj zoni centra grada Čačka. Smeštajni kapacitet hotela raspolaže sa 35 moderno opremljenih soba i apartmana sa elegantnom notom tradicije. Svaki segment hotela prepoznatljiv je po svojoj jedinstvenosti, koju naši gosti vole, neguju i prilikom prvog boravka stvara...",
+      "img": "/images/properties/hotel-beograd.jpg"
+    },
+    {
+      "href": "https://www.hotelkole.rs/",
+      "text": "Hotel Kole",
+      "p": "Hotel Kole 3* nalazi se u prelepim Konjevićima, svega 3 km od centra Čačka, uz magistralni put Beograd – Podgorica. Ovaj hotel nudi mir, tišinu i prijatnu, domaću atmosferu, što ga čini savršenim mestom za opuštanje i beg od svakodnevnog stresa. Idealna destinacija za sve koji žele da uživaju u prirodi i udobnosti!",
+      "img": "/images/properties/hotel-kole.jpg"
+    },
+    {
+      "href": "https://www.hotellivade.com/",
+      "text": "Hotel Livade",
+      "p": "Hotel Livade 3* smešten je u Preljini, kod kružnog toka gde se put od Ibarske magistrale odvaja za Čačak. Izgrađen 1980. godine, danas je jedan od najpoznatijih ugostiteljskih objekata u Zapadnoj Srbiji. Moderno opremljene sobe, odlična lokacija i profesionalno, srdačno osoblje učiniće vaš boravak izuzetno prijatnim. Savršeno mesto za sve vrste gostiju!",
+      "img": "/images/properties/motel-livade.jpg"
+    },
+    {
+      "href": "https://www.zdravljak.rs/",
+      "text": "Restoran sa sobama Zdravljak",
+      "p": "Zdravljak se nalazi u srcu banje Gornja Trepča, u blizini izvora lekovite vode i prirodnog lečilišta. Mineralne vode sa specifičnim fizičkim i hemijskim karakteristikama pomažu u rehabilitaciji. Na raspolaganju imamo 32 ležaja u 16 dvokrevetnih soba. Naša restoranska ponuda obuhvata raznovrsna gotova jela, jela sa roštilja i specijalitete domaće kuhinje, idealna za svaki ukus.",
+      "img": "/images/properties/zdravljak.jpg"
+    },
+    {
+      "href": "https://kafanacarlazar.rs/",
+      "text": "Kafana Car Lazar",
+      "p": "Najstarija i najpoznatija kafana u Čačku, osnovana 1883. godine, obnovljena je 1903. i sačuvala je svoj originalni izgled. Ova kafana, koja odiše šarmom stare čačanske čaršije, omiljeno je mesto za okupljanje. Poznata je po specijalitetima nacionalne kuhinje, kao što su proja, čvarci, pihtije i jela sa roštilja. Organizujemo i manje proslave do 90 osoba.",
+      "img": "/images/properties/car-lazar.jpg"
+    },
+    {
+      "href": "https://www.restoranplaza.rs/",
+      "text": "Restoran Plaža",
+      "p": "Restoran \"Plaža\" nalazi se uz jezero Međuvršje, 15 km od centra Čačka. Ovaj restoran se izdvaja bogatom selekcijom vina koja savršeno upotpunjuje jela domaće i internacionalne kuhinje. Ponosno nudimo svetska jela, kao što su klasični biftek s grilovanim povrćem, \"Surf&Turf\" biftek i tuna steak. Takođe, tu su i teletina ispod sača i sveže ribe, po kojima smo posebno poznati. Dođite da uživate!",
+      "img": "/images/properties/plaza.jpg"
+    },
+    {
+      "href": "/",
+      "text": "Restoran Lovac",
+      "p": "Restoran Lovac nalazi se na opštini Čačak, pored gradske plaže. Sa kvalitetnom uslugom i profesionalnim, ljubaznim osobljem, vaša svečanost ovde će postati nezaboravna. Duga tradicija i bogato iskustvo u organizaciji proslava čine nas idealnim izborom za sve vaše posebne trenutke. Posetite nas i uživajte u jedinstvenoj atmosferi!",
+      "img": "/images/properties/lovac.jpg"
+    },
+    {
+      "href": "https://www.prolece.rs/",
+      "text": "Caffe Restoran Proleće",
+      "p": "Caffe restoran Proleće smešten je u centru grada Čačka, preko puta gradskog trga. Od davnina, ovo omiljeno mesto okuplja Čačane svih generacija. Nakon renoviranja 2018. godine, Proleće je postalo sinonim za jedinstvenu i originalnu ugostiteljsku ponudu. Njegov prepoznatljiv eksterijer i enterijer u industrijskom stilu ostavljaju snažan utisak na sve goste, čineći svaki boravak posebnim.",
+      "img": "/images/properties/prolece.jpg"
+    }
+  ]
+}

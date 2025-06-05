@@ -1,0 +1,10 @@
+{
+  "intro": {
+    "img": "/images/menu/intro-image.jpg",
+    "heading": "Experience our unique cuisine",
+    "paragraphs": [
+      "A perfect blend of traditional cuisine and modern design. Every day, we carefully select a selection of the freshest ingredients, and our professional chefs are dedicated to making each dish a true gastronomic delight."
+    ],
+    "reservationBtn": "Reservations at:"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "img": "/images/attractions/blagovestenje.webp",
+      "heading": "Manastir Blagoveštenje",
+      "description": "Jedan od najznačajnijih manastira u Srbiji, smešten u Ovčarsko-kablarskoj klisuri, okružen predivnim pejzažima. Ovaj duhovni centar nudi mir i spokoj, kao i prelepu arhitekturu.",
+      "link": "https://www.google.com/maps/place/Monastery+Blagove%C5%A1tenje/@43.8974113,20.1822116,1118m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47577a58ec4fba09:0xa23c89cd3436edb7!8m2!3d43.8974113!4d20.1847865!16s%2Fg%2F122hcv3w?entry=tts&g_ep=EgoyMDI0MTAyMS4xIPu8ASoASAFQAw%3D%3D"
+    },
+    {
+      "img": "/images/attractions/klisura.webp",
+      "heading": "Ovčarsko-kablarska klisura",
+      "description": "Prirodni rezervat poznat po svojim planinarskim stazama, izvanrednim pogledima i termalnim izvorima. Idealno mesto za ljubitelje prirode i avanture.",
+      "link": "https://www.google.com/maps/place/Ovcarsko-Kablarska+Klisura/@43.9045246,20.195654,731m/data=!3m1!1e3!4m6!3m5!1s0x47577af258b60ddb:0x5759faa337a30f44!8m2!3d43.9047222!4d20.1958333!16s%2Fg%2F1q5bmmgk5?entry=tts&g_ep=EgoyMDI0MTAyMS4xIPu8ASoASAFQAw%3D%3D"
+    },
+    {
+      "img": "/images/attractions/muzej.webp",
+      "heading": "Narodni muzej Čačak",
+      "description": "Upoznajte bogatu istoriju regiona kroz kolekciju artefakata koja se prostire od praistorije do modernih vremena. Muzej je smešten u srcu grada, pružajući odličan uvid u lokalnu kulturu.",
+      "link": "https://www.google.com/maps/place/National+Museum+%C4%8Ca%C4%8Dak/@43.8933319,20.3465549,1118m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4757721167be0833:0xc75a3e0c2ef8691e!8m2!3d43.8933319!4d20.3491298!16s%2Fg%2F11b5m46njj?entry=tts&g_ep=EgoyMDI0MTAyMS4xIPu8ASoASAFQAw%3D%3D"
+    },
+    {
+      "img": "/images/attractions/park.webp",
+      "heading": "Gradski park Čačak",
+      "description": "Savršeno mesto za šetnju i opuštanje u samom centru grada. Zelenilo, fontane i skulpture čine ovaj park idealnim za sve generacije.",
+      "link": "https://www.google.com/maps/place/City+park/@43.893272,20.3401655,1118m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47577210ab222c8b:0x2fadb2dd07f77581!8m2!3d43.893272!4d20.3427404!16s%2Fg%2F11c2lbn6_6?entry=tts&g_ep=EgoyMDI0MTAyMS4xIPu8ASoASAFQAw%3D%3D"
+    },
+    {
+      "img": "/images/attractions/rimljani.webp",
+      "heading": "Rimljani u Čačku",
+      "description": "Posetite arheološko nalazište i saznajte više o prisustvu Rimljana u ovim krajevima. Na lokalitetima su otkriveni značajni ostaci iz rimskog perioda koji svedoče o bogatoj prošlosti.",
+      "link": "https://www.google.com/maps/place/Roman+Square/@43.8923697,20.346983,1118m/data=!3m1!1e3!4m7!3m6!1s0x475773b056f08491:0x52be81953e7979c7!8m2!3d43.8916276!4d20.349116!15sChByaW1za2kgdHJnIGNhY2FrkgESdG91cmlzdF9hdHRyYWN0aW9u4AEA!16s%2Fg%2F11gmcjj63c?entry=tts&g_ep=EgoyMDI0MTAyMS4xIPu8ASoASAFQAw%3D%3D"
+    },
+    {
+      "img": "/images/attractions/trepca.webp",
+      "heading": "Atomska Banja Gornja Trepča",
+      "description": "Poznata po lekovitim termalnim vodama, ova banja privlači posetioce koji traže relaksaciju i zdravstvene tretmane. Savršeno mesto za odmor i regeneraciju.",
+      "link": "https://www.google.com/maps/place/Atomska+Banja/@43.9533049,20.4827803,1116m/data=!3m2!1e3!4b1!4m6!3m5!1s0x475713e36b41436b:0x6fd1ef02ece50018!8m2!3d43.9533049!4d20.4853552!16s%2Fg%2F11gkb59d6y?entry=tts&g_ep=EgoyMDI0MTAyMS4xIPu8ASoASAFQAw%3D%3D"
+    }
+  ]
+}

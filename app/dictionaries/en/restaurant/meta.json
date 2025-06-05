@@ -1,0 +1,18 @@
+{
+  "title": "Restaurant - Hotel Kole",
+  "description": "Open the door to gastronomic magic at Hotel Kole. ",
+  "icons": "/images/favicon.ico",
+  "openGraph": {
+    "title": "Restaurant - Hotel Kole",
+    "description": "Open the door to gastronomic magic at Hotel Kole. ",
+    "images": [
+      {
+        "url": "/images/restaurant/intro-image.jpg",
+        "width": 800,
+        "height": 600,
+        "alt": "Page Menu banner"
+      }
+    ],
+    "type": "website"
+  }
+}

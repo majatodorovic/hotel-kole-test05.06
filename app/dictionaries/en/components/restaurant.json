@@ -1,0 +1,610 @@
+{
+  "subheading": "MENU",
+  "heading": "The flavors of our restaurant",
+  "items": [
+    {
+      "categories": [
+        {
+          "category": "Breakfast",
+          "items": [
+            {
+              "name": "Omelet with ham and melted cheese"
+            },
+            {
+              "name": "Omelet with mushrooms"
+            },
+            {
+              "name": "Fried eggs with crispy bacon, arugula and mozzarella"
+            },
+            {
+              "name": "Gourmet breakfast \"Kole\"",
+              "description": "(2 eggs, mushrooms stuffed with ajvar and cheese, bacon, cracklings)"
+            },
+            {
+              "name": "Polenta"
+            },
+            {
+              "name": "Fritters"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Hot and cold appetizers",
+          "items": [
+            {
+              "name": "Steak rolls with pumpkin seed dressing"
+            },
+            {
+              "name": "Gambor spring rolls"
+            },
+            {
+              "name": "Steak carpaccio"
+            },
+            {
+              "name": "Steak tartare"
+            },
+            {
+              "name": "Gambor tartare"
+            },
+            {
+              "name": "Selection of prosciutto and cheese",
+              "description": "(for two people)\n"
+            },
+            {
+              "name": "Fish pate"
+            },
+            {
+              "name": "Bruschetta with smoked salmon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Soups and stews",
+          "items": [
+            {
+              "name": "Veal soup"
+            },
+            {
+              "name": "Clear soup"
+            },
+            {
+              "name": "Potage of the day"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Pasta and risotto",
+          "items": [
+            {
+              "name": "Penne with turkey in pesto sauce"
+            },
+            {
+              "name": "Tagliatelle with steak and truffles"
+            },
+            {
+              "name": "Spaghetti carbonara"
+            },
+            {
+              "name": "Spaghetti with gambori and saffron"
+            },
+            {
+              "name": "Risotto with seafood"
+            },
+            {
+              "name": "Gnocchi with gambori and truffles"
+            },
+            {
+              "name": "Risotto with three kinds of mushrooms"
+            },
+            {
+              "name": "Cuban foam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Grilled dishes",
+          "items": [
+            {
+              "name": "Kebabs on flavored cream"
+            },
+            {
+              "name": "Rolled chicken in cream cheese and bacon"
+            },
+            {
+              "name": "Turkey tagliata in gorgonzola sauce"
+            },
+            {
+              "name": "Grilled steak with aromatic vegetables",
+              "img": "/images/restaurant/hrana-1.jpg"
+            },
+            {
+              "name": "Smoked neck with scallion salsa"
+            },
+            {
+              "name": "Chicken in Šumadija style"
+            },
+            {
+              "name": "Grilled chicken fillet"
+            },
+            {
+              "name": "Karađorđe steak"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Specialties of the \"Kole\" restaurant",
+          "items": [
+            {
+              "name": "Steak Wellington"
+            },
+            {
+              "name": "Selection of lamb in red wine sauce"
+            },
+            {
+              "name": "Gambori on the bazar"
+            },
+            {
+              "name": "Baked octopus on flavored vegetables"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Dry Ager",
+          "items": [
+            {
+              "name": "T-bone steak (kg)",
+              "img": "/images/restaurant/hrana-6.png"
+            },
+            {
+              "name": "Rib-eye steak (kg)"
+            },
+            {
+              "name": "Tomahawk steak (kg)"
+            },
+            {
+              "description": "*the meat used in the preparation was aged for 40 days in a special chamber for ripening the meat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Fish and seafood",
+          "items": [
+            {
+              "name": "Sea bream/sea bass fillet with olive salsa"
+            },
+            {
+              "name": "Salmon fillet on pea puree"
+            },
+            {
+              "name": "Trout fillet"
+            },
+            {
+              "name": "Grilled Gambori"
+            },
+            {
+              "name": "Grilled squid"
+            },
+            {
+              "name": "Fried squid"
+            },
+            {
+              "name": "Grilled octopus"
+            },
+            {
+              "name": "lobster (kg)"
+            },
+            {
+              "description": "- San Pierre"
+            },
+            {
+              "description": "- Rudeness"
+            },
+            {
+              "description": "- The dentist"
+            },
+            {
+              "description": "- Sea bream"
+            },
+            {
+              "description": "- Sea bass"
+            },
+            {
+              "description": "- Perch"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Salad meal",
+          "items": [
+            {
+              "name": "Carpese salad"
+            },
+            {
+              "name": "Exotic salad with shrimps"
+            },
+            {
+              "name": "Octopus salad"
+            },
+            {
+              "name": "Salad with steak and pine nuts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Salads",
+          "items": [
+            {
+              "name": "Garden salad"
+            },
+            {
+              "name": "Shop salad"
+            },
+            {
+              "name": "Roasted pepper"
+            },
+            {
+              "name": "Greek salad"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Pizza",
+          "items": [
+            {
+              "name": "Caprice"
+            },
+            {
+              "name": "Devil"
+            },
+            {
+              "name": "Quattro stagione"
+            },
+            {
+              "name": "Pizza with crispy chicken and arugula"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Desserts",
+          "items": [
+            {
+              "name": "Cheese cake with caramel and pistachios",
+              "img": "/images/restaurant/hrana-5.png"
+            },
+            {
+              "name": "Chocolate tart with ice cream",
+              "img": "/images/restaurant/hrana-3.jpg"
+            },
+            {
+              "name": "Baked apple cake with vanilla ice cream",
+              "img": "/images/restaurant/hrana-4.jpg"
+            },
+            {
+              "name": "Baklava"
+            },
+            {
+              "name": "Cake of the day"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Sauces",
+          "items": [
+            {
+              "name": "Green pepper sauce"
+            },
+            {
+              "name": "Mushroom sauce"
+            },
+            {
+              "name": "Caramelized onion sauce"
+            },
+            {
+              "name": "Gorgonzola sauce"
+            },
+            {
+              "name": "Truffle sauce"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Cover",
+          "items": [
+            {
+              "name": "Bread, pate, cheese spread"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Hot drinks",
+          "items": [
+            {
+              "name": "Coffee"
+            },
+            {
+              "name": "Espresso"
+            },
+            {
+              "name": "Cappuccino"
+            },
+            {
+              "name": "Nes Coffee"
+            },
+            {
+              "name": "Hot chocolate"
+            },
+            {
+              "name": "Tea"
+            },
+            {
+              "name": "Boiled brandy"
+            },
+            {
+              "name": "Mulled wine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Soft drinks",
+          "items": [
+            {
+              "name": "Mineral carbonated water 0.33"
+            },
+            {
+              "name": "Mineral still water 0.33"
+            },
+            {
+              "name": "Mineral carbonated water 1l"
+            },
+            {
+              "name": "Mineral still water 1l"
+            },
+            {
+              "name": "Coca Cola, Fnata, Sprite 0.25"
+            },
+            {
+              "name": "Tonic, Bitter lemon 0.25"
+            },
+            {
+              "name": "Cocta 0.25"
+            },
+            {
+              "name": "Red Bull 0.25"
+            },
+            {
+              "name": "Guarana 0.25"
+            },
+            {
+              "name": "Juice bottles 0.2"
+            },
+            {
+              "name": "Kvass 0.33"
+            },
+            {
+              "name": "Squeezed orange 0.2"
+            },
+            {
+              "name": "Lemonade 0.2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Beer",
+          "items": [
+            {
+              "name": "Cabinet of Brka"
+            },
+            {
+              "name": "Heineken 0.25"
+            },
+            {
+              "name": "Staropramen 0.33"
+            },
+            {
+              "name": "Deer 0.33"
+            },
+            {
+              "name": "Nikšićko 0.33"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Spirits",
+          "items": [
+            {
+              "name": "Gin 0.03 40% alc."
+            },
+            {
+              "name": "Smirnoff vodka 0.03 40% alc."
+            },
+            {
+              "name": "Gray goose vodka 0.03 40% alc."
+            },
+            {
+              "name": "Tequila Two fingers 0.03 40% alc."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Aperitifs",
+          "items": [
+            {
+              "name": "Campari Bitter 0.03 32% alc."
+            },
+            {
+              "name": "Vermouth Martini /bianco, rosso/ 0.03 16% alc."
+            },
+            {
+              "name": "Jagermeister 0.03 35% alc."
+            },
+            {
+              "name": "Baileys 0.03 35% alc."
+            },
+            {
+              "name": "Bitter leaf 0.03 35% alc."
+            },
+            {
+              "name": "Aperol spritz 0.03 35% alc."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Brandy",
+          "items": [
+            {
+              "name": "Jelica ducat 0.03 45% alc."
+            },
+            {
+              "name": "Pearl 0.03 45% alc."
+            },
+            {
+              "name": "Dragačevka zlatna 0.03 45% alc."
+            },
+            {
+              "name": "Licura 0.03 45% alc."
+            },
+            {
+              "name": "Quince 0.03 40% alc."
+            },
+            {
+              "name": "Apricot 0.03 40% alc."
+            },
+            {
+              "name": "Lozovača 0.03 47% alc."
+            },
+            {
+              "name": "Viljamovka 0.03 40% alk."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Whiskey",
+          "items": [
+            {
+              "name": "Chivas Regal /12 years old/ 0.03 40% alc."
+            },
+            {
+              "name": "Johnnie Walker 0.03 43% alc."
+            },
+            {
+              "name": "Johnnie Walker /Black label/ 0.03 40% alc."
+            },
+            {
+              "name": "Ballentines 0.03 43% alc."
+            },
+            {
+              "name": "Four roses 0.03 40% alc."
+            },
+            {
+              "name": "Jack Daniels 0.03 43% alc."
+            },
+            {
+              "name": "Jack Daniels /single barrel/ 0.03 47% alc."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "Cognac and Vinjac",
+          "items": [
+            {
+              "name": "Courvoisier X.O. "
+            },
+            {
+              "name": "Courvoisier V.S.O.P. "
+            },
+            {
+              "name": "Hennessy V.S. "
+            },
+            {
+              "name": "Vinegar 5 0.03 40% alc."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

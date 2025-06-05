@@ -1,0 +1,41 @@
+{
+  "heading": "Hotel rules and conditions",
+  "infoList": [
+    "Check-in at the hotel from 2:00 p.m",
+    "Check-out from the hotel by 12:00 p.m",
+    "A baby cot is free of charge and must be reserved in advance.",
+    "Children up to 3 years of age stay for free in the hotel.",
+    "Children from 3 to 7 years old in a shared bed, accompanied by an adult, pay only for selected meals.",
+    "Children from 7 to 12 years old in a separate bed pay 70% of the price of the bed. ",
+    "Parking is free for hotel guests"
+  ],
+  "paymentMethodList": {
+    "heading": "Terms and method of payment",
+    "list": [
+      "Prices are expressed in RSD per person, for the selected room type with VAT included.",
+      "Breakfast is included in the overnight price.",
+      "The price does not include the residence tax, which is charged in the amount of RSD 110.00 per day per person and insurance of RSD 15.00 per day per person. ",
+      "Payment can be made in cash, Burmese, as well as by credit card: Visa, Dina, Master, Maestro. ",
+      "If the payment is made by the company, it is necessary to make an advance payment in the amount of 50% based on the invoice at least 2 days before the guest's arrival.",
+      "If the payment is made by the tour operator for prearranged accommodation of a tourist or other group, an advance payment of 50% must be made no later than 14 days before arrival at the Hotel.",
+      "Payment from abroad can be made by payment to the Hotel's foreign currency account (bank charges are borne by the payer, otherwise, the charges will be charged at the Hotel's reception) or by credit card (the Hotel reserves the right to pre-authorize.)",
+      "All additional guest costs, such as mini bar costs and other additional services, are charged upon check-out from the Hotel."
+    ]
+  },
+  "damageCompensationList": {
+    "heading": "Damage compensation",
+    "list": [
+      "In case the confirmed reservation is canceled 3 days before arrival, the Hotel will not charge the client. ",
+      "In case of cancellation of a group reservation: - Cancellation of an announced and confirmed group by the service user must be submitted in writing.",
+      {
+        "list": [
+          "A group means a group of 10 or more people who stay and use the services of the Hotel in an organized manner. ",
+          "The reservation will be canceled without cancellation costs, if the group's stay is canceled at least 14 days before the agreed date of service implementation.",
+          "If the reservation for the group is canceled in a period shorter than 14 days and longer than 7 days before the start of using the services, the Hotel reserves the right to charge 40% of the value of the contracted work as damages.",
+          "If the reservation for the group is canceled in a period shorter than 7 days and longer than 48 hours before the start of using the services, the Hotel reserves the right to charge 50% of the value of the contracted work as damages.",
+          "If the reservation for the group is canceled 48 hours before the scheduled time, the Hotel reserves the right to charge 80% of the value of the contracted work in the name of damages."
+        ]
+      }
+    ]
+  }
+}

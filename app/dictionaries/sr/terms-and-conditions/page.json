@@ -1,0 +1,41 @@
+{
+  "heading": "Pravila i uslovi hotela",
+  "infoList": [
+    "Prijava u hotel od 14.00 h",
+    "Odjava iz hotela do 12.00 h",
+    "Krevetac za bebe je besplatan, a isti je potrebno rezervisati unapred.",
+    "Deca do 3 godine starosti borave besplatno u hotelu.",
+    "Deca od 3 do 7 godina starosti u zajedničkom ležaju u pratnji odrasle osobe, plaćaju samo odabrane obroke.",
+    "Deca od 7 do 12 godina starosti u zasebnom ležaju plaćaju 70 % od cene ležaja. Roditelj je dužan da pokaže očitanu zdravstvenu knjižicu deteta ili dokument sa JMBG-om.",
+    "Upotreba parkinga je besplatna za goste hotela"
+  ],
+  "paymentMethodList": {
+    "heading": "Uslovi I način plaćanja",
+    "list": [
+      "Cene su izražene u RSD po osobi, za odabrani tip sobe sa uključenim PDV-om.",
+      "U cenu noćenja uračunat je doručak.",
+      "U cenu nije uključena boravišna taksa koja se tarifira u visini od 110,00 RSD dnevno po osobi i osiguranje od 15,00 RSD dnevno po osobi. Deca do 7 godina plaćaju samo osiguranje, lica od 7 do 15 godina starosti plaćaju osiguranje i boravišnu taksu umanjenu za 50%.",
+      "Plaćanje se može vršiti gotovinski, virmanski kao i karticama: Visa, Dina, Master, Maestro. Hotel zadržava pravo predautorizacije kreditnih kartica.",
+      "Ukoliko plaćanje vrši kompanija, potrebno je uplatiti avans u iznosu od 50% po osnovu predračuna najmanje 2 dana pre dolaska gosta.",
+      "Ukoliko plaćanje vrši turoperator za unapred dogovoren smeštaj turističke ili druge grupe, potrebno je uplatiti avans u visini od 50% najkasnije 14 dana pre dolaska u Hotel.",
+      "Plaćanje iz inostranstva može se vršiti uplatom na devizni račun Hotela (bankarski troškovi idu na teret uplatioca, u suprotnom, troškovi će biti naplaćeni na recepciji Hotela) ili kreditnom karticom (Hotel zadržava pravo predautorizacije.)",
+      "Svi dodatni troškovi gosta, kao što su troškovi mini bara i drugih dodatnih usluga naplaćuju se prilikom odjave iz Hotela."
+    ]
+  },
+  "damageCompensationList": {
+    "heading": "Naknada štete",
+    "list": [
+      "U slučaju da se potvrđena rezervacija otkaze 3 dana pre dolaska, Hotel neće zadužiti klijenta. U slučaju nepojavljivanja, otkazivanja ili bilo kakve promene rezervacije u roku kraćem od 3 dana, Hotel zadržava pravo naknade u visini iznosa jednog noćenja sa doručkom po ugovorenoj ceni smeštaja.",
+      "U slučaju otkaza grupne rezervacije: - Otkaz najavljene i potvrđene grupe od strane korisnika usluga mora biti dostavljen u pisanoj formi.",
+      {
+        "list": [
+          "Pod grupom se podrazumeva celina od 10 ili više osoba koje organizovano borave i koriste usluge Hotela. - Potvrđena grupa je ona za koju se organizator putovanja u pisanoj formi ili uplatom avansa usaglasio sa ponuđenim uslovima i načinima plaćanja koji su sastavni deo poslovanja Hotela.",
+          "Rezervacija će biti otkazana bez storno troškova, ukoliko se otkaže boravak grupe minimum 14 dana pre ugovorenog datuma realizacije usluge.",
+          "Ukoliko se rezervacija za grupu otkaže u periodu kraćem od 14 dana a dužem od 7 dana pre početka korišćenja usluga, Hotel zadržava pravo da naplati na ime naknade štete 40% od vrednosti ugovorenog posla.",
+          "Ukoliko se rezervacija za grupu otkaže u periodu kraćem od 7 dana a dužem od 48 sati pre početka korišćenja usluga, Hotel zadržava pravo da naplati na ime naknade štete 50 % od vrednosti ugovorenog posla.",
+          "Ukoliko se rezervacija za grupu otkaže 48 sati pre zakazanog termina Hotel zadrzava pravo naplate na ime naknade štete 80% od vrednosti ugovorenog posla"
+        ]
+      }
+    ]
+  }
+}

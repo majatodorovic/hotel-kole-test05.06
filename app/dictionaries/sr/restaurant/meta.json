@@ -1,0 +1,18 @@
+{
+  "title": "Restoran - Hotel Kole",
+  "description": "Otvorite vrata gastronomske čarolije u Hotelu Kole. Naš jelovnik nudi ukusne specijalitete, pripremljene od svežih sastojaka za nezaboravan kulinarski doživljaj.",
+  "icons": "/images/favicon.ico",
+  "openGraph": {
+    "title": "Restoran - Hotel Kole",
+    "description": "Otvorite vrata gastronomske čarolije u Hotelu Kole. Naš jelovnik nudi ukusne specijalitete, pripremljene od svežih sastojaka za nezaboravan kulinarski doživljaj.",
+    "images": [
+      {
+        "url": "/images/restaurant/intro-image.jpg",
+        "width": 800,
+        "height": 600,
+        "alt": "Stranica Jelovnik baner"
+      }
+    ],
+    "type": "website"
+  }
+}

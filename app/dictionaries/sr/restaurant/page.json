@@ -1,0 +1,21 @@
+{
+  "intro": {
+    "img": "/images/restaurant/intro-image.jpg",
+    "heading": "Tradicionalni ukusi i izabrani specijaliteti",
+    "paragraphs": [
+      "Naš restoran ima kapacitet do 180 gostiju i nalazi se na prvom spratu, u neposrednoj blizini recepcije, aperitiv bara i terase. Pažljivo osmišljen dizajn prostora sigurno će ostaviti snažan utisak, a atmosfera koju pružamo učiniće da se osećate kao kod kuće. Uživajte u našim tradicionalnim specijalitetima i biranim vinskim etiketama iz celog sveta. Naša opcija open buffet doručka savršen je način da započnete dan – sa svežim, domaćim namirnicama koje će vaš početak dana učiniti posebnim."
+    ],
+    "btn": {
+      "href": "/menu",
+      "text": "POGLEDAJTE JELOVNIK"
+    }
+  },
+  "gallery": [
+    { "src": "/images/restaurant/restaurant-1.jpg" },
+    { "src": "/images/restaurant/restaurant-2.jpg" },
+    { "src": "/images/restaurant/restaurant-3.jpg" },
+    { "src": "/images/restaurant/restaurant-4.jpg" },
+    { "src": "/images/restaurant/restaurant-5.jpg" },
+    { "src": "/images/restaurant/restaurant-6.jpg" }
+  ]
+}

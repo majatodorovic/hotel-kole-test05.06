@@ -1,0 +1,109 @@
+{
+  "aboutUs": {
+    "subheading": "ABOUT US",
+    "heading": "WELCOME",
+    "paragraphs": [
+      "We are located in Konjevići, just three kilometers from the center of Čačak, along the main road Belgrade – Podgorica. The ideal place to take a break from your journey, have a snack, and enjoy our atmosphere."
+    ],
+    "btn": {
+      "href": "/about-us",
+      "text": "LEARN MORE"
+    },
+    "luxRoom": {
+      "heading": "Luxury rooms",
+      "paragraph": "The capacity of the hotel is 37 accommodation units, of which two are Queen and one King suite."
+    },
+    "taste": {
+      "heading": "Refined flavors",
+      "paragraph": "We take pride in a wide spectrum of authentic local and global specialties in Čačak's gastronomic offer."
+    }
+  },
+  "apartments": {
+    "subheading": "ROOMS AND APARTMENTS",
+    "heading": "Your ideal vacation starts here"
+  },
+  "benefits": {
+    "subheading": "BENEFITS",
+    "heading": "Advantages that we highlight",
+    "list": [
+      {
+        "icon": "/images/home/kuwait.png",
+        "heading": "Ideal location",
+        "p": "Our location allows easy access to all major attractions, perfect for exploring the city and surrounding sights."
+      },
+      {
+        "icon": "/images/home/bed.png",
+        "heading": "Comfortable accommodation",
+        "p": "Rooms and apartments are designed with attention to detail, providing maximum comfort and modern equipment for a pleasant stay."
+      },
+      {
+        "icon": "/images/home/taste.png",
+        "heading": "Top gastronomy",
+        "p": "Enjoy a variety of specialties prepared from the highest quality ingredients with a rich selection of wines from the world's most famous vineyards."
+      },
+      {
+        "icon": "/images/home/puzzle-pieces.png",
+        "heading": "Various activities",
+        "p": "In addition to relaxation, we offer a variety of activities such as guided tours, sports activities and excursions, which allow guests to explore the local culture and nature."
+      },
+      {
+        "icon": "/images/home/free-parking.png",
+        "heading": "Free Wi-Fi and parking",
+        "p": "Free Wi-Fi is available to guests throughout the facility, as well as secured parking for carefree enjoyment."
+      },
+      {
+        "icon": "/images/home/happy.png",
+        "heading": "Friendly staff",
+        "p": "Our team is here to provide you with top service and make your stay unforgettable, with an individual approach to each guest."
+      }
+    ]
+  },
+  "restaurant": {
+    "subheading": "RESTAURANT",
+    "heading": "Traditional flavors and chosen specialties",
+    "paragraphs": [
+      "Our restaurant has a capacity of up to 180 guests and is located on the first floor, in close proximity to the reception, aperitif bar, and terrace. The carefully designed space is sure to make a strong impression, and the atmosphere we provide will make you feel right at home. Enjoy our traditional specialties and selected wine labels from around the world. Our open buffet breakfast option is the perfect way to start your day – with fresh, homemade ingredients that will make your start of the day special. "
+    ],
+    "btn": {
+      "href": "/gallery",
+      "text": "SEE THE GALLERY"
+    }
+  },
+  "foodMenu": {
+    "subheading": "MENU",
+    "heading": "The flavors of our restaurant",
+    "paragraphs": [
+      "The restaurant with a capacity of 180 guests is located on the first floor, at the level of the reception, the aperitif bar and the spacious terrace. "
+    ],
+    "btn": {
+      "href": "/gallery",
+      "text": "SEE THE GALLERY"
+    }
+  },
+  "location": [
+    {
+      "icon": "/images/home/cityscape.png",
+      "distance": "3",
+      "unit": "km",
+      "text": "Čačak - the city center"
+    },
+    {
+      "icon": "/images/home/store.png",
+      "distance": "600",
+      "unit": "m",
+      "text": "Hypermarket"
+    },
+    {
+      "icon": "/images/home/bus-stop.png",
+      "distance": "3",
+      "unit": "km",
+      "text": "Bus station"
+    },
+    {
+      "icon": "/images/home/hospital.png",
+      "distance": "700",
+      "unit": "m",
+      "text": "Infirmary"
+    }
+  ]
+}

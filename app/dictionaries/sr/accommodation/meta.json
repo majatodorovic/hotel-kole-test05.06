@@ -1,0 +1,18 @@
+{
+  "title": "Smeštaj - Hotel Kole",
+  "description": "Hotel Kole nudi udoban i luksuzan smeštaj. Naše sobe i apartmani su opremljeni modernim sadržajem, pružajući vam savršen odmor.",
+  "icons": "/images/favicon.ico",
+  "openGraph": {
+    "title": "Smeštaj - Hotel Kole",
+    "description": "Hotel Kole nudi udoban i luksuzan smeštaj. Naše sobe i apartmani su opremljeni modernim sadržajem, pružajući vam savršen odmor.",
+    "images": [
+      {
+        "url": "/images/accommodation/intro-image.jpg",
+        "width": 800,
+        "height": 600,
+        "alt": "Stranica Smeštaj baner"
+      }
+    ],
+    "type": "website"
+  }
+}

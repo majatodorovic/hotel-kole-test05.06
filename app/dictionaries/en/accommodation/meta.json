@@ -1,0 +1,18 @@
+{
+  "title": "Accommodation - Hotel Kole",
+  "description": "Hotel Kole offers comfortable and luxurious accommodation. Our rooms and apartments are equipped with modern amenities, providing you with the perfect getaway.",
+  "icons": "/images/favicon.ico",
+  "openGraph": {
+    "title": "Accommodation - Hotel Kole",
+    "description": "Hotel Kole offers comfortable and luxurious accommodation. Our rooms and apartments are equipped with modern amenities, providing you with the perfect getaway.",
+    "images": [
+      {
+        "url": "/images/accommodation/intro-image.jpg",
+        "width": 800,
+        "height": 600,
+        "alt": "Accommodation page banner"
+      }
+    ],
+    "type": "website"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "intro": {
+    "img": "/images/accommodation/intro-image.jpg",
+    "heading": "Enjoy your stay",
+    "paragraphs": [
+      "Our accommodation is carefully designed to meet the needs of all guests, whether you're a business traveler, a tourist, or a family seeking comfort. Comfortable rooms, along with friendly and professional staff, will make your stay as pleasant and relaxing as possible. Additionally, free Wi-Fi is available throughout the property."
+    ],
+    "reservationBtn": "Reservations at:"
+  },
+  "accommodation": {
+    "benefits": {
+      "heading": "Benefits:"
+    },
+    "roomContents": { "heading": "Room Amenities:" }
+  }
+}

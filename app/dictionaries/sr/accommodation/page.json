@@ -1,0 +1,16 @@
+{
+  "intro": {
+    "img": "/images/accommodation/intro-image.jpg",
+    "heading": "Uživajte u svom boravku",
+    "paragraphs": [
+      "Naš smeštaj je pažljivo osmišljen kako bi zadovoljio potrebe svih gostiju, bilo da ste poslovni putnik, turistički posetilac ili porodica u potrazi za udobnošću. Komforne sobe, uz ljubazno i profesionalno osoblje, učiniće vaš boravak što prijatnijim i opuštajućim. Takođe, na raspolaganju vam je besplatan Wi-Fi u celom objektu."
+    ],
+    "reservationBtn": "Rezervacije na:"
+  },
+  "accommodation": {
+    "benefits": {
+      "heading": "Pogodnosti:"
+    },
+    "roomContents": { "heading": "Sadržaji sobe:" }
+  }
+}
