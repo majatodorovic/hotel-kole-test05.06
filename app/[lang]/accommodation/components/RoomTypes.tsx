@@ -2,13 +2,24 @@
 
 import { canela } from "@/app/fonts";
 import Image from "next/image";
-import { Fragment, useRef, useState } from "react";
+import { Fragment, useRef, useState, useEffect } from "react";
 import { createPortal } from "react-dom";
 import { Swiper, SwiperSlide, useSwiper } from "swiper/react";
 import { Navigation, Virtual } from "swiper/modules";
 
 export default function RoomTypes({ data }: any) {
   const [lightbox, setLightBox] = useState<any>(null);
+  const [isMobile, setIsMobile] = useState(false);
+
+  // Pratimo veličinu ekrana da bismo znali da li je mobilni prikaz
+  useEffect(() => {
+    const checkMobile = () => setIsMobile(window.innerWidth < 768);
+    checkMobile();
+
+    window.addEventListener("resize", checkMobile);
+    return () => window.removeEventListener("resize", checkMobile);
+  }, []);
+
   return (
     <section className="flex justify-center px-6 md:px-8 2xl:px-12">
       <div className="w-full md:max-w-4xl xl:max-w-none 2xl:max-w-[1612px]">
@@ -21,6 +32,9 @@ export default function RoomTypes({ data }: any) {
         >
           {data.items.map((room: any, roomIndex: number) => {
             const hasManyImages = room.images.secondaryImages.length > 4;
+            const showMobileArrows =
+              isMobile && room.images.secondaryImages.length > 3;
+
             return (
               <SwiperSlide key={roomIndex}>
                 <div
@@ -58,7 +72,9 @@ export default function RoomTypes({ data }: any) {
                         <div className="w-full flex-col gap-y-4 md:flex-row flex gap-x-4 max-w-2xl">
                           <div className="flex flex-col md:w-1/2 gap-y-5">
                             {room.benefits
-                              .filter((_: any, index: number) => index % 2 === 0)
+                              .filter(
+                                (_: any, index: number) => index % 2 === 0
+                              )
                               .map((roomBenefit: any, index: number) => (
                                 <div
                                   data-aos="fade-up"
@@ -79,7 +95,9 @@ export default function RoomTypes({ data }: any) {
                           </div>
                           <div className="flex flex-col md:w-1/2 gap-y-5">
                             {room.benefits
-                              .filter((_: any, index: number) => index % 2 === 1)
+                              .filter(
+                                (_: any, index: number) => index % 2 === 1
+                              )
                               .map((roomBenefit: any, index: number) => (
                                 <div
                                   data-aos="fade-up"
@@ -113,11 +131,16 @@ export default function RoomTypes({ data }: any) {
                           </span>
                           <div className="grow flex md:justify-center items-center pt-4 md:pt-0 md:pl-6 self-stretch">
                             <div className="text-base md:text-lg 2xl:text-xl max-w-md flex flex-wrap">
-                              {room.roomContents.map((roomContent: any, index: number) => (
-                                <span key={index} className="shrink-0 mr-1">
-                                  {roomContent + (index !== room.roomContents.length - 1 ? ", " : "")}
-                                </span>
-                              ))}
+                              {room.roomContents.map(
+                                (roomContent: any, index: number) => (
+                                  <span key={index} className="shrink-0 mr-1">
+                                    {roomContent +
+                                      (index !== room.roomContents.length - 1
+                                        ? ", "
+                                        : "")}
+                                  </span>
+                                )
+                              )}
                             </div>
                           </div>
                         </div>
@@ -134,7 +157,10 @@ export default function RoomTypes({ data }: any) {
                         onClick={() => {
                           setLightBox({
                             focusedImgIndex: 0,
-                            imgArray: [room.images.primaryImage, ...room.images.secondaryImages],
+                            imgArray: [
+                              room.images.primaryImage,
+                              ...room.images.secondaryImages,
+                            ],
                           });
                         }}
                       >
@@ -145,7 +171,7 @@ export default function RoomTypes({ data }: any) {
                           alt="image 1"
                           width={1566}
                           height={1146}
-                          className="w-full h-auto object-cover hover:cursor-pointer transition-transform ease-out duration-300 group-hover:scale-110"
+                          className="w-full h-auto object-cover transition-transform ease-out duration-300 md:group-hover:scale-110"
                         />
                       </div>
                       <div className="relative w-full max-w-2xl">
@@ -157,30 +183,47 @@ export default function RoomTypes({ data }: any) {
                           spaceBetween={10}
                           className="w-full"
                         >
-                          {room.images.secondaryImages.map((secondaryImage: any, index: number) => (
-                            <SwiperSlide key={index}>
-                              <div
-                                className="group flex flex-col h-full items-start w-full overflow-hidden"
-                                onClick={() => {
-                                  setLightBox({
-                                    focusedImgIndex: index + 1,
-                                    imgArray: [room.images.primaryImage, ...room.images.secondaryImages],
-                                  });
-                                }}
-                              >
-                                <Image
-                                  data-aos="fade-up"
-                                  data-aos-easing="fadeUpCustom"
-                                  src={secondaryImage}
-                                  alt={`image ${index + 2}`}
-                                  width={1566}
-                                  height={1146}
-                                  className="w-full h-auto object-cover hover:cursor-pointer transition-transform ease-out duration-300 group-hover:scale-110"
-                                />
-                              </div>
-                            </SwiperSlide>
-                          ))}
-                          {hasManyImages && (
+                          {room.images.secondaryImages.map(
+                            (secondaryImage: any, index: number) => (
+                              <SwiperSlide key={index}>
+                                <div
+                                  className="group flex flex-col h-full items-start w-full overflow-hidden"
+                                  onClick={() => {
+                                    setLightBox({
+                                      focusedImgIndex: index + 1,
+                                      imgArray: [
+                                        room.images.primaryImage,
+                                        ...room.images.secondaryImages,
+                                      ],
+                                    });
+                                  }}
+                                >
+                                  <Image
+                                    data-aos="fade-up"
+                                    data-aos-easing="fadeUpCustom"
+                                    src={secondaryImage}
+                                    alt={`image ${index + 2}`}
+                                    width={1566}
+                                    height={1146}
+                                    className="w-full h-auto object-cover hover:cursor-pointer transition-transform ease-out duration-300 group-hover:scale-110"
+                                  />
+                                </div>
+                              </SwiperSlide>
+                            )
+                          )}
+
+                          {/* Desktop strelice */}
+                          {!isMobile && hasManyImages && (
+                            <div
+                              slot="container-end"
+                              className="absolute right-0 top-0 h-full z-10"
+                            >
+                              <ImgSliderBtn />
+                            </div>
+                          )}
+
+                          {/* Mobile strelice */}
+                          {isMobile && showMobileArrows && (
                             <div
                               slot="container-end"
                               className="absolute right-0 top-0 h-full z-10"
@@ -300,7 +343,11 @@ const LightBox = ({ setLightBoxOpen, focusedImgIndex, imgArray }: any) => {
             className="w-full flex items-center h-full shrink max-w-5xl mx-0"
           >
             {imgArray.map((img: any, index: number) => (
-              <SwiperSlide key={index} virtualIndex={index} className="flex h-full w-full items-center justify-center">
+              <SwiperSlide
+                key={index}
+                virtualIndex={index}
+                className="flex h-full w-full items-center justify-center"
+              >
                 <div className="relative w-full h-full flex items-center">
                   <Image
                     src={img}
