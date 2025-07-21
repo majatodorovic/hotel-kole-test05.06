@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "img": "/images/home/jednokrevetna-soba.jpg",
+      "img": "/images/accommodation/single-room/slika301.jpg",
       "heading": "Single room",
       "paragraph": "These rooms are ideal for a short stay, whether you are coming to Čačak for business or tourism, and are a frequent choice of business people and individual travelers. ",
       "benefits": [
@@ -21,46 +21,19 @@
         "Parking",
         "Phone"
       ],
-      "priceList": [
-        {
-          "text": "OVERNIGHT WITH BREAKFAST",
-          "price": "4000.00"
-        },
-        {
-          "text": "BREAKFAST",
-          "price": "600.00"
-        },
-        {
-          "text": "HALF BOARD",
-          "price": "4700.00"
-        },
-        {
-          "text": "LUNCH",
-          "price": "700.00"
-        },
-        {
-          "text": "PENSION",
-          "price": "5400.00"
-        },
-        {
-          "text": "DINNER",
-          "price": "700.00"
-        }
-      ],
-      "tax": "Prices are expressed in dinars including VAT. ",
+    
+      "tax": "",
       "images": {
-        "primaryImage": "/images/accommodation/single-room/single-room-1.jpg",
+        "primaryImage": "/images/accommodation/single-room/slika301.jpg",
         "secondaryImages": [
-          "/images/accommodation/single-room/single-room-2.jpg",
-          "/images/accommodation/single-room/single-room-3.jpg",
-          "/images/accommodation/single-room/single-room-4.jpg",
-          "/images/accommodation/single-room/single-room-5.jpg",
-          "/images/accommodation/single-room/single-room-6.jpg"
+          "/images/accommodation/single-room/slika300.jpg",
+          "/images/accommodation/single-room/slika302.jpg",
+          "/images/accommodation/single-room/slika303.jpg"
         ]
       }
     },
     {
-      "img": "/images/home/king-apartman.jpg",
+      "img": "/images/accommodation/king/slika400.jpg",
       "heading": "King Suite",
       "paragraph": "The synthesis of modern lines and proportionality that exudes the KING apartment, gives a special stamp to our hotel. ",
       "benefits": [
@@ -81,54 +54,23 @@
         "Phone",
         "Jacuzzi"
       ],
-      "priceList": [
-        {
-          "innerPriceList": {
-            "columnHeadings": ["Apartment", "Extra bed"],
-            "rows": [
-              {
-                "text": "OVERNIGHT WITH BREAKFAST",
-                "columns": ["8600.00", "2600.00"]
-              },
-              {
-                "text": "HALF BOARD",
-                "columns": ["9200.00", "3200.00"]
-              },
-              {
-                "text": "PENSION",
-                "columns": ["9800.00", "3800.00"]
-              }
-            ]
-          }
-        },
-        {
-          "text": "BREAKFAST",
-          "price": "500.00"
-        },
-        {
-          "text": "LUNCH",
-          "price": "600.00"
-        },
-        {
-          "text": "DINNER",
-          "price": "600.00"
-        }
-      ],
-      "tax": "Prices are expressed in dinars including VAT. ",
+     
+      "tax": " ",
       "images": {
-        "primaryImage": "/images/accommodation/king/king-apartment-1.jpg",
+        "primaryImage": "/images/accommodation/king/slika400.jpg",
         "secondaryImages": [
-          "/images/accommodation/king/king-apartment-2.jpg",
-          "/images/accommodation/king/king-apartment-3.jpg",
-          "/images/accommodation/king/king-apartment-4.jpg",
-          "/images/accommodation/king/king-apartment-5.jpg",
-          "/images/accommodation/king/king-apartment-6.jpg",
-          "/images/accommodation/king/king-apartment-7.jpg"
+          "/images/accommodation/king/slika401.jpg",
+          "/images/accommodation/king/slika402.jpg",
+          "/images/accommodation/king/slika403.jpg",
+          "/images/accommodation/king/slika404.jpg",
+          "/images/accommodation/king/slika405.jpg",
+          "/images/accommodation/king/slika406.jpg",
+          "/images/accommodation/king/slika407.jpg"
         ]
       }
     },
     {
-      "img": "/images/home/dvokrevetna-soba.jpg",
+      "img": "/images/accommodation/double-room/slika101.jpg",
       "heading": "Double room",
       "paragraph": "Double rooms represent a perfect harmony of simplicity and functionality. ",
       "benefits": [
@@ -148,45 +90,56 @@
         "Parking",
         "Phone"
       ],
-      "priceList": [
-        {
-          "text": "BED AND BREAKFAST (per person)",
-          "price": "3100.00"
-        },
-        {
-          "text": "BREAKFAST",
-          "price": "600.00"
-        },
-        {
-          "text": "HALF BOARD (per person)",
-          "price": "3800.00"
-        },
-        {
-          "text": "LUNCH",
-          "price": "700.00"
-        },
-        {
-          "text": "BOARDING BOARD (per person)",
-          "price": "3500.00"
-        },
-        {
-          "text": "DINNER",
-          "price": "700.00"
-        }
-      ],
-      "tax": "Prices are expressed in dinars including VAT. ",
+    
+      "tax": "",
       "images": {
-        "primaryImage": "/images/accommodation/double-room/double-room-1.jpg",
+        "primaryImage": "/images/accommodation/double-room/slika101.jpg",
         "secondaryImages": [
-          "/images/accommodation/double-room/double-room-2.jpg",
-          "/images/accommodation/double-room/double-room-3.jpg",
-          "/images/accommodation/double-room/double-room-4.jpg",
-          "/images/accommodation/double-room/double-room-5.jpg"
+          "/images/accommodation/double-room/slika100.jpg",
+          "/images/accommodation/double-room/slika102.jpg",
+          "/images/accommodation/double-room/slika103.jpg",
+          "/images/accommodation/double-room/slika104.jpg"
         ]
       }
     },
     {
-      "img": "/images/home/francuski-lezaj.jpg",
+      "img": "/images/accommodation/king/king-apartment-2.jpg",
+      "heading": "Non-smoking room",
+      "paragraph": "The synthesis of modern lines and proportionality that exudes the apartment, gives a special stamp to our hotel. ",
+      "benefits": [
+        "Baby cot on guest's request",
+        "Extra pillow",
+        "Daily room cleaning",
+        "Information about tourist attractions in the area",
+        "Non-smoking rom"
+      ],
+      "roomContents": [
+        "Mini Bar",
+        "Ironing and laundry",
+        "Room Service",
+        "Cable TV",
+        "Hairdryer",
+        "Free internet",
+        "Parking",
+        "Phone",
+        "Jacuzzi"
+      ],
+     
+      "tax": " ",
+      "images": {
+        "primaryImage": "/images/accommodation/king/king-apartment-2.jpg",
+        "secondaryImages": [
+          "/images/accommodation/king/king-apartment-1.jpg",
+          "/images/accommodation/king/king-apartment-3.jpg",
+          "/images/accommodation/king/king-apartment-4.jpg",
+          "/images/accommodation/king/king-apartment-5.jpg",
+          "/images/accommodation/king/king-apartment-6.jpg",
+          "/images/accommodation/king/king-apartment-7.jpg"
+        ]
+      }
+    },
+    {
+      "img": "/images/accommodation/french-bed/slika201.jpg",
       "heading": "French bed",
       "paragraph": "These rooms are designed according to the needs of the modern traveler, offering work space, constant access to wireless internet and numerous additional facilities. ",
       "benefits": [
@@ -206,54 +159,22 @@
         "Parking",
         "Phone"
       ],
-      "priceList": [
-        {
-          "innerPriceList": {
-            "columnHeadings": ["1/1", "1/2 (per person)"],
-            "rows": [
-              {
-                "text": "OVERNIGHT WITH BREAKFAST",
-                "columns": ["2600.00", "3400.00"]
-              },
-              {
-                "text": "HALF BOARD",
-                "columns": ["3200.00", "4000.00"]
-              },
-              {
-                "text": "PENSION",
-                "columns": ["3800.00", "4600.00"]
-              }
-            ]
-          }
-        },
-        {
-          "text": "BREAKFAST",
-          "price": "500.00"
-        },
-        {
-          "text": "LUNCH",
-          "price": "600.00"
-        },
-        {
-          "text": "DINNER",
-          "price": "600.00"
-        }
-      ],
-      "tax": "Prices are expressed in dinars including VAT. ",
+    
+      "tax": "",
       "images": {
-        "primaryImage": "/images/accommodation/french-bed/french-bed-1.jpg",
+        "primaryImage": "/images/accommodation/french-bed/slika201.jpg",
         "secondaryImages": [
-          "/images/accommodation/french-bed/french-bed-2.jpg",
-          "/images/accommodation/french-bed/french-bed-3.jpg",
-          "/images/accommodation/french-bed/french-bed-4.jpg",
-          "/images/accommodation/french-bed/french-bed-5.jpg",
-          "/images/accommodation/french-bed/french-bed-6.jpg",
-          "/images/accommodation/french-bed/french-bed-7.jpg"
+          "/images/accommodation/french-bed/slika200.jpg",
+          "/images/accommodation/french-bed/slika202.jpg",
+          "/images/accommodation/french-bed/slika203.jpg",
+          "/images/accommodation/french-bed/slika204.jpg",
+          "/images/accommodation/french-bed/slika205.jpg",
+          "/images/accommodation/french-bed/slika206.jpg"
         ]
       }
     },
     {
-      "img": "/images/home/trokrevetna-soba.jpg",
+      "img": "/images/accommodation/triple-room/slika600.jpg",
       "heading": "Triple room",
       "paragraph": "The perfect choice for trips of different groups - from families and friends to business groups and sports teams. ",
       "benefits": [
@@ -273,46 +194,21 @@
         "Parking",
         "Phone"
       ],
-      "priceList": [
-        {
-          "text": "BED AND BREAKFAST (per person)",
-          "price": "2600.00"
-        },
-        {
-          "text": "BREAKFAST",
-          "price": "500.00"
-        },
-        {
-          "text": "HALF BOARD (per person)",
-          "price": "3200.00"
-        },
-        {
-          "text": "LUNCH",
-          "price": "600.00"
-        },
-        {
-          "text": "BOARDING BOARD (per person)",
-          "price": "3800.00"
-        },
-        {
-          "text": "DINNER",
-          "price": "600.00"
-        }
-      ],
-      "tax": "Prices are expressed in dinars including VAT. ",
+      
+      "tax": "",
       "images": {
-        "primaryImage": "/images/accommodation/triple-room/triple-room-1.jpg",
+        "primaryImage": "/images/accommodation/triple-room/slika600.jpg",
         "secondaryImages": [
-          "/images/accommodation/triple-room/triple-room-2.jpg",
-          "/images/accommodation/triple-room/triple-room-3.jpg",
-          "/images/accommodation/triple-room/triple-room-4.jpg",
-          "/images/accommodation/triple-room/triple-room-5.jpg",
-          "/images/accommodation/triple-room/triple-room-6.jpg"
+          "/images/accommodation/triple-room/slika601.jpg",
+          "/images/accommodation/triple-room/slika602.jpg",
+          "/images/accommodation/triple-room/slika603.jpg",
+          "/images/accommodation/triple-room/slika604.jpg",
+          "/images/accommodation/triple-room/slika605.jpg"
         ]
       }
     },
     {
-      "img": "/images/home/queen-apartman.jpg",
+      "img": "/images/accommodation/queen/slika500.jpg",
       "heading": "Queen Suite",
       "paragraph": "Queen apartments are a special unit in the offer of our hotel, recognizable for their exceptional comfort and pleasant ambience. ",
       "benefits": [
@@ -333,49 +229,14 @@
         "Phone",
         "When"
       ],
-      "priceList": [
-        {
-          "innerPriceList": {
-            "columnHeadings": ["Apartment", "Extra bed"],
-            "rows": [
-              {
-                "text": "OVERNIGHT WITH BREAKFAST",
-                "columns": ["7300.00", "2600.00"]
-              },
-              {
-                "text": "HALF BOARD",
-                "columns": ["7900.00", "3200.00"]
-              },
-              {
-                "text": "PENSION",
-                "columns": ["8500.00", "3800.00"]
-              }
-            ]
-          }
-        },
-        {
-          "text": "BREAKFAST",
-          "price": "500.00"
-        },
-        {
-          "text": "LUNCH",
-          "price": "600.00"
-        },
-        {
-          "text": "DINNER",
-          "price": "600.00"
-        }
-      ],
-      "tax": "Prices are expressed in dinars including VAT. ",
+    
+      "tax": "",
       "images": {
-        "primaryImage": "/images/accommodation/queen/queen-apartment-1.jpg",
+        "primaryImage": "/images/accommodation/queen/slika500.jpg",
         "secondaryImages": [
-          "/images/accommodation/queen/queen-apartment-2.jpg",
-          "/images/accommodation/queen/queen-apartment-3.jpg",
-          "/images/accommodation/queen/queen-apartment-4.jpg",
-          "/images/accommodation/queen/queen-apartment-5.jpg",
-          "/images/accommodation/queen/queen-apartment-6.jpg",
-          "/images/accommodation/queen/queen-apartment-7.jpg"
+          "/images/accommodation/queen/slika501.jpg",
+          "/images/accommodation/queen/slika502.jpg",
+          "/images/accommodation/queen/slika503.jpg"
         ]
       }
     }

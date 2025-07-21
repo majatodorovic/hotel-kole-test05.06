@@ -35,13 +35,10 @@ export default function FoodMenu({ data }: any) {
   const [foodItems, setFoodItems] = useState<any>(null);
   useEffect(() => {
     const dataCopy = extractDeepestItemsWithKey(data, "items");
-    const foodItems = [
-      ...dataCopy.filter((foodItem: any) => foodItem.img),
-      ...dataCopy.filter((foodItem: any) => !foodItem.img),
-    ];
-    console.log(foodItems);
+    const foodItems = dataCopy.filter((foodItem: any) => foodItem.img); // Samo sa slikom
     setFoodItems(splitArrayIntoChunks(foodItems, 6));
   }, [data]);
+  
   return (
     <>
       <section className="flex justify-center w-full py-24 md:py-40 2xl:py-52 px-6 md:px-8 2xl:px-12 relative">

@@ -43,7 +43,8 @@ export default async function Home({
         />
         <Restaurant data={data.restaurant} lang={lang} />
         <Benefits data={data.benefits} />
-        <FoodMenu data={{ ...data.foodMenu, restaurant: restaurant.items }} />
+        <FoodMenu data={{ ...data.foodMenu, restaurant: restaurant.items }} isHomepage={true} />
+
         <Location data={data.location} />
       </main>
     </>

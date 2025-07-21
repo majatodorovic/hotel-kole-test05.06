@@ -2,7 +2,34 @@
 
 import { canela } from "@/app/fonts";
 
-export default function FoodMenu({ data }: any) {
+export default function FoodMenu({ data, isHomepage = false }: any) {
+  // Filtrira stavke samo ako je isHomepage = true
+  const filteredItems = data.items.map((item: any) => {
+    if (isHomepage) {
+      const filteredCategories = item.categories
+        .map((category: any) => ({
+          ...category,
+          items: category.items.filter(
+            (categoryItem: any) =>
+              categoryItem.img && categoryItem.img.trim() !== ""
+          ),
+        }))
+        .filter((category: any) => category.items.length > 0);
+
+      return {
+        ...item,
+        categories: filteredCategories,
+      };
+    } else {
+      return item;
+    }
+  });
+
+  // Ako je homepage, ukloni iteme koji nemaju kategorije sa stavkama
+  const finalItems = isHomepage
+    ? filteredItems.filter((item: any) => item.categories.length > 0)
+    : data.items;
+
   return (
     <section
       className="w-full flex flex-col items-center px-4 md:px-8 2xl:px-12"
@@ -25,74 +52,66 @@ export default function FoodMenu({ data }: any) {
         </h2>
       </div>
       <div className="flex flex-col items-center md:grid md:grid-cols-2 xl:grid-cols-3 gap-x-9 gap-y-8 lg:gap-y-16 md:max-w-4xl xl:max-w-none 2xl:max-w-[1612px] w-full">
-        {data.items.map((item: any, key: number) => {
-          return (
-            <div
-              data-aos="fade-up"
-              data-aos-easing="fadeUpCustom"
-              key={key}
-              className="foodMenuItem flex flex-col h-full pl-8 md:pl-12 2xl:pl-16 pr-6 md:pr-10 2xl:pr-14 even:py-6 odd:py-10 lg:even:py-10 2xl:py-14 items-start w-full"
-            >
-              <h3>{item.category}</h3>
-              {item.categories.map((category: any, categoryId: number) => {
-                return (
-                  <div
-                    key={`${key}-${categoryId}`}
-                    className="flex flex-col items-start w-full"
-                  >
-                    <h3
-                      className={`${canela.className} text-[40px] mb-6 md:mb-10 2xl:mb-12 font-bold`}
+        {finalItems.map((item: any, key: number) => (
+          <div
+            data-aos="fade-up"
+            data-aos-easing="fadeUpCustom"
+            key={key}
+            className="foodMenuItem flex flex-col h-full pl-8 md:pl-12 2xl:pl-16 pr-6 md:pr-10 2xl:pr-14 even:py-6 odd:py-10 lg:even:py-10 2xl:py-14 items-start w-full"
+          >
+            {/* Nema item.category u tvojoj strukturi pa ne prikazuj */}
+            {item.categories.map((category: any, categoryId: number) => (
+              <div
+                key={`${key}-${categoryId}`}
+                className="flex flex-col items-start w-full"
+              >
+                <h3
+                  className={`${canela.className} text-[40px] mb-6 md:mb-10 2xl:mb-12 font-bold`}
+                >
+                  {category.category}
+                </h3>
+                {category.items.map(
+                  (categoryItem: any, categoryItemIndex: number) => (
+                    <ul
+                      className="flex flex-col items-start w-full mb-2 list-disc"
+                      key={`${key}-${categoryId}-${categoryItemIndex}`}
                     >
-                      {category.category}
-                    </h3>
-                    {category.items.map(
-                      (categoryItem: any, categoryItemIndex: number) => {
-                        return (
-                          <ul
-                            className="flex flex-col items-start w-full mb-2 list-disc"
-                            key={`${key}-${categoryId}-${categoryItemIndex}`}
+                      <li>
+                        {categoryItem.name && (
+                          <h4
+                            className={`text-xl font-medium ${
+                              categoryItem.description ? "mb-1" : "mb-2"
+                            }`}
                           >
-                            <li>
-                              {categoryItem.name && (
-                                <h4
-                                  className={`text-xl font-medium ${
-                                    categoryItem.description ? "mb-1" : "mb-2"
-                                  }`}
-                                >
-                                  {categoryItem.name}
-                                </h4>
-                              )}
-                              {categoryItem.description &&
-                                categoryItem.description
-                                  .split("\n")
-                                  .map((line: string, index: number) => (
-                                    <p
-                                      key={index}
-                                      className="text-base md:text-lg xl:text-xl 2xl:text-xl italic"
-                                    >
-                                      {line}
-                                      {index !==
-                                        categoryItem.description.split("\n")
-                                          .length -
-                                          1 && (
-                                        <>
-                                          <br />
-                                          <br />
-                                        </>
-                                      )}
-                                    </p>
-                                  ))}
-                            </li>
-                          </ul>
-                        );
-                      }
-                    )}
-                  </div>
-                );
-              })}
-            </div>
-          );
-        })}
+                            {categoryItem.name}
+                          </h4>
+                        )}
+                        {categoryItem.description &&
+                          categoryItem.description
+                            .split("\n")
+                            .map((line: string, index: number) => (
+                              <p
+                                key={index}
+                                className="text-base md:text-lg xl:text-xl 2xl:text-xl italic"
+                              >
+                                {line}
+                                {index !==
+                                  categoryItem.description.split("\n").length - 1 && (
+                                  <>
+                                    <br />
+                                    <br />
+                                  </>
+                                )}
+                              </p>
+                            ))}
+                      </li>
+                    </ul>
+                  )
+                )}
+              </div>
+            ))}
+          </div>
+        ))}
       </div>
     </section>
   );

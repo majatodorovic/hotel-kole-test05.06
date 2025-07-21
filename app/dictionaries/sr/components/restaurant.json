@@ -8,21 +8,25 @@
           "category": "Doručak",
           "items": [
             {
-              "name": "Omlet sa šunkom i topljenim sirom"
+              "name": "Omlet sa šunkom i topljenim sirom",
+                 "img": ""
             },
             {
-              "name": "Omlet sa pečurkama"
+              "name": "Omlet sa pečurkama",
+                 "img": ""
             },
             {
-              "name": "Jaja na oko sa hrskavom slaninom, rukolom i mocarelom"
+              "name": "Jaja na oko sa hrskavom slaninom, rukolom i mocarelom",
+                 "img": ""
             },
             {
               "name": "Gurmanski doručak \"Kole\"",
               "description": "(2 jaja, pečurke punjene ajvarom i sirom, slanina, čvarci)"
             },
-            { "name": "Kačamak" },
+          
             {
-              "name": "Prženice"
+              "name": "Prženice",
+                 "img": ""
             }
           ]
         }
@@ -34,29 +38,36 @@
           "category": "Topla i hladna predjela",
           "items": [
             {
-              "name": "Biftek rolnice sa prelivom od semena bundeve"
+              "name": "Biftek rolnice sa prelivom od semena bundeve",
+              "img": "/images/restaurant/hrana3.jpg"
             },
             {
-              "name": "Prolećne rolnice od gambora"
+              "name": "Prolećne rolnice od gambora",
+              "img": ""
             },
             {
-              "name": "Karpaćo od bifteka"
+              "name": "Karpaćo od bifteka",
+                 "img": ""
             },
             {
-              "name": "Tartar biftek"
+              "name": "Tartar biftek",
+                 "img": ""
             },
             {
-              "name": "Tartar od gambora"
+              "name": "Tartar od gambora",
+                 "img": ""
             },
             {
               "name": "Selekcija pršute i sira",
               "description": "(za dve osobe)\n"
             },
             {
-              "name": "Pašteta od ribe"
+              "name": "Pašteta od ribe",
+                 "img": ""
             },
             {
-              "name": "Brusketi sa dimljenim lososom"
+              "name": "Brusketi sa dimljenim lososom",
+                 "img": ""
             }
           ]
         }
@@ -68,13 +79,16 @@
           "category": "Čorbe i potaži",
           "items": [
             {
-              "name": "Teleća čorba"
+              "name": "Teleća čorba",
+                 "img": ""
             },
             {
-              "name": "Bistra supa"
+              "name": "Bistra supa",
+                 "img": ""
             },
             {
-              "name": "Potaž dana"
+              "name": "Potaž dana",
+                 "img": ""
             }
           ]
         }
@@ -86,28 +100,36 @@
           "category": "Paste i rižota",
           "items": [
             {
-              "name": "Pene sa ćuretinom u pesto sosu"
+              "name": "Pene sa ćuretinom u pesto sosu",
+              "img": "/images/restaurant/hrana7.jpg"
             },
             {
-              "name": "Taljatele sa biftekom i tartufima"
+              "name": "Taljatele sa biftekom i tartufima",
+                 "img": ""
             },
             {
-              "name": "Špagete karbonara"
+              "name": "Špagete karbonara",
+                 "img": ""
             },
             {
-              "name": "Špagete sa gamborima i šafranom"
+              "name": "Špagete sa gamborima i šafranom",
+                 "img": ""
             },
             {
-              "name": "Rižoto sa morskim plodovima"
+              "name": "Rižoto sa morskim plodovima",
+                 "img": ""
             },
             {
-              "name": "Njoke sa gamborima i tartufima"
+              "name": "Njoke sa gamborima i tartufima",
+                 "img": ""
             },
             {
-              "name": "Rižoto sa tri vrste pečuraka"
+              "name": "Rižoto sa tri vrste pečuraka",
+                 "img": ""
             },
             {
-              "name": "Pene cubana"
+              "name": "Pene cubana",
+              "img": "/images/restaurant/hrana10.jpg"
             }
           ]
         }
@@ -119,29 +141,36 @@
           "category": "Jela sa roštilja",
           "items": [
             {
-              "name": "Ćevapi na aromatizovanom kajmaku"
+              "name": "Ćevapi na aromatizovanom kajmaku",
+                 "img": ""
             },
             {
-              "name": "Rolovana piletina u krem siru i slanini"
+              "name": "Rolovana piletina u krem siru i slanini",
+                 "img": ""
             },
             {
-              "name": "Ćureća taljata u sosu od gorgonzole"
+              "name": "Ćureća taljata u sosu od gorgonzole",
+                 "img": ""
             },
             {
               "name": "Biftek na žaru sa aromatičnim povrćem",
               "img": "/images/restaurant/hrana-1.jpg"
             },
             {
-              "name": "Dimljeni vrat sa salsom od mladog luka"
+              "name": "Dimljeni vrat sa salsom od mladog luka",
+              "img": "/images/restaurant/hrana6.jpg"
             },
             {
-              "name": "Piletina na šumadijski način"
+              "name": "Piletina na šumadijski način",
+                 "img": ""
             },
             {
-              "name": "Pileći file na žaru"
+              "name": "Pileći file na žaru",
+                 "img": ""
             },
             {
-              "name": "Karađorđeva šnicla"
+              "name": "Karađorđeva šnicla",
+                 "img": ""
             }
           ]
         }
@@ -153,16 +182,20 @@
           "category": "Specijaliteti restorana \"Kole\"",
           "items": [
             {
-              "name": "Welington biftek"
+              "name": "Welington biftek",
+              "img": "/images/restaurant/hrana8.jpg"
             },
             {
-              "name": "Selekcija jagnjetine u sosu od crvenog vina"
+              "name": "Selekcija jagnjetine u sosu od crvenog vina",
+                 "img": ""
             },
             {
-              "name": "Gambori na buzari"
+              "name": "Gambori na buzari",
+                 "img": ""
             },
             {
-              "name": "Zapečena hobotnica na aromatizovanom povrću"
+              "name": "Zapečena hobotnica na aromatizovanom povrću",
+                 "img": ""
             }
           ]
         }
@@ -178,10 +211,12 @@
               "img": "/images/restaurant/hrana-6.png"
             },
             {
-              "name": "Rib-eye steak (kg)"
+              "name": "Rib-eye steak (kg)",
+                 "img": ""
             },
             {
-              "name": "Tomahawk steak (kg)"
+              "name": "Tomahawk steak (kg)",
+              "img": "/images/restaurant/hrana5.jpg"
             },
             {
               "description": "*meso korišćeno u pripremi je odležalo 40 dana u specijalnoj komori za zrenje mesa"
@@ -196,28 +231,36 @@
           "category": "Riba i morski plodovi",
           "items": [
             {
-              "name": "File orade/brancina sa salsom od maslina"
+              "name": "File orade/brancina sa salsom od maslina",
+                 "img": ""
             },
             {
-              "name": "File lososa na pireu od graska"
+              "name": "File lososa na pireu od graska",
+              "img": "/images/restaurant/hrana2.jpg"
             },
             {
-              "name": "File pastrmke"
+              "name": "File pastrmke",
+                 "img": ""
             },
             {
-              "name": "Gambori na žaru"
+              "name": "Gambori na žaru",
+              "img": "/images/restaurant/hrana1.jpg"
             },
             {
-              "name": "Lignje na žaru"
+              "name": "Lignje na žaru",
+                 "img": ""
             },
             {
-              "name": "Pržene lignje"
+              "name": "Pržene lignje",
+                 "img": ""
             },
             {
-              "name": "Hobotnica na žaru"
+              "name": "Hobotnica na žaru",
+                 "img": ""
             },
             {
-              "name": "Jastog (kg)"
+              "name": "Jastog (kg)",
+                 "img": ""
             },
 
             { "description": "-San Pjer" },
@@ -236,16 +279,20 @@
           "category": "Obrok salate",
           "items": [
             {
-              "name": "Karpeze salata"
+              "name": "Karpeze salata",
+                 "img": ""
             },
             {
-              "name": "Egzotična salata sa gamborima"
+              "name": "Egzotična salata sa gamborima",
+              "img": "/images/restaurant/hrana4.jpg"
             },
             {
-              "name": "Salata od hobotnice"
+              "name": "Salata od hobotnice",
+                 "img": ""
             },
             {
-              "name": "Salata sa biftekom i pinjolima"
+              "name": "Salata sa biftekom i pinjolima",
+                 "img": ""
             }
           ]
         }
@@ -257,16 +304,20 @@
           "category": "Salate",
           "items": [
             {
-              "name": "Bašta salata"
+              "name": "Bašta salata",
+                 "img": ""
             },
             {
-              "name": "Šopska salata"
+              "name": "Šopska salata",
+                 "img": ""
             },
             {
-              "name": "Pečena paprika"
+              "name": "Pečena paprika",
+                 "img": ""
             },
             {
-              "name": "Grčka salata"
+              "name": "Grčka salata",
+                 "img": ""
             }
           ]
         }
@@ -278,16 +329,20 @@
           "category": "Pice",
           "items": [
             {
-              "name": "Kaprićoza"
+              "name": "Kaprićoza",
+                 "img": ""
             },
             {
-              "name": "Diavolo"
+              "name": "Diavolo",
+                 "img": ""
             },
             {
-              "name": "Quattro stagione"
+              "name": "Quattro stagione",
+                 "img": ""
             },
             {
-              "name": "Pica sa hrskavom piletinom i rukolom"
+              "name": "Pica sa hrskavom piletinom i rukolom",
+                 "img": ""
             }
           ]
         }
@@ -300,7 +355,7 @@
           "items": [
             {
               "name": "Cheese cake sa karamelom i pistaćima",
-              "img": "/images/restaurant/hrana-5.png"
+              "img": "/images/restaurant/hrana9.jpg"
             },
             {
               "name": "Čokoladni tart sa saladoledom",
@@ -311,10 +366,12 @@
               "img": "/images/restaurant/hrana-4.jpg"
             },
             {
-              "name": "Baklava"
+              "name": "Baklava",
+                 "img": ""
             },
             {
-              "name": "Kolač dana"
+              "name": "Kolač dana",
+                 "img": ""
             }
           ]
         }
@@ -326,19 +383,25 @@
           "category": "Sosevi",
           "items": [
             {
-              "name": "Sos od zelenog bibera"
+              "name": "Sos od zelenog bibera",
+                 "img": ""
+              
             },
             {
-              "name": "Sos od pečuraka"
+              "name": "Sos od pečuraka",
+                 "img": ""
             },
             {
-              "name": "Sos od karamelizovanog luka"
+              "name": "Sos od karamelizovanog luka",
+                 "img": ""
             },
             {
-              "name": "Sos od gorgonzole"
+              "name": "Sos od gorgonzole",
+                 "img": ""
             },
             {
-              "name": "Sos od tartufa"
+              "name": "Sos od tartufa",
+                 "img": ""
             }
           ]
         }
@@ -350,7 +413,8 @@
           "category": "Kuver",
           "items": [
             {
-              "name": "Hleb, pašteta, namaz od sira"
+              "name": "Hleb, pašteta, namaz od sira",
+                 "img": ""
             }
           ]
         }
@@ -362,28 +426,36 @@
           "category": "Topli napici",
           "items": [
             {
-              "name": "Kafa"
+              "name": "Kafa",
+                 "img": ""
             },
             {
-              "name": "Espresso"
+              "name": "Espresso",
+                 "img": ""
             },
             {
-              "name": "Kapućino"
+              "name": "Kapućino",
+                 "img": ""
             },
             {
-              "name": "Nes Kafa"
+              "name": "Nes Kafa",
+                 "img": ""
             },
             {
-              "name": "Topla čokolada"
+              "name": "Topla čokolada",
+                 "img": ""
             },
             {
-              "name": "Čaj"
+              "name": "Čaj",
+                 "img": ""
             },
             {
-              "name": "Kuvana rakija"
+              "name": "Kuvana rakija",
+                 "img": ""
             },
             {
-              "name": "Kuvano vino"
+              "name": "Kuvano vino",
+                 "img": ""
             }
           ]
         }
@@ -395,43 +467,56 @@
           "category": "Bezalkoholna pića",
           "items": [
             {
-              "name": "Mineralna gazirana voda 0,33"
+              "name": "Mineralna gazirana voda 0,33",
+                 "img": ""
             },
             {
-              "name": "Mineralna negazirana voda 0,33"
+              "name": "Mineralna negazirana voda 0,33",
+                 "img": ""
             },
             {
-              "name": "Mineralna gazirana voda 1l"
+              "name": "Mineralna gazirana voda 1l",
+                 "img": ""
             },
             {
-              "name": "Mineralna negazirana voda 1l"
+              "name": "Mineralna negazirana voda 1l",
+                 "img": ""
             },
             {
-              "name": "Coca Cola, Fnata, Sprite 0,25"
+              "name": "Coca Cola, Fnata, Sprite 0,25",
+                 "img": ""
             },
             {
-              "name": "Tonik, Bitter lemon 0,25"
+              "name": "Tonik, Bitter lemon 0,25",
+                 "img": ""
             },
             {
-              "name": "Cocta 0,25"
+              "name": "Cocta 0,25",
+                 "img": ""
             },
             {
-              "name": "Red Bull 0,25"
+              "name": "Red Bull 0,25",
+                 "img": ""
             },
             {
-              "name": "Guarana 0,25"
+              "name": "Guarana 0,25",
+                 "img": ""
             },
             {
-              "name": "Sok flašica 0,2"
+              "name": "Sok flašica 0,2",
+                 "img": ""
             },
             {
-              "name": "Kvas 0,33"
+              "name": "Kvas 0,33",
+                 "img": ""
             },
             {
-              "name": "Ceđena pomorandža 0,2"
+              "name": "Ceđena pomorandža 0,2",
+                 "img": ""
             },
             {
-              "name": "Limunada 0,2"
+              "name": "Limunada 0,2",
+                 "img": ""
             }
           ]
         }
@@ -443,19 +528,24 @@
           "category": "Pivo",
           "items": [
             {
-              "name": "Kabinet Brka"
+              "name": "Kabinet Brka",
+                 "img": ""
             },
             {
-              "name": "Heineken 0,25"
+              "name": "Heineken 0,25",
+                 "img": ""
             },
             {
-              "name": "Staropramen 0,33"
+              "name": "Staropramen 0,33",
+                 "img": ""
             },
             {
-              "name": "Jelen 0,33"
+              "name": "Jelen 0,33",
+                 "img": ""
             },
             {
-              "name": "Nikšićko 0,33"
+              "name": "Nikšićko 0,33",
+                 "img": ""
             }
           ]
         }
@@ -467,16 +557,20 @@
           "category": "Žestoka pića",
           "items": [
             {
-              "name": "Gin 0,03 40% alk."
+              "name": "Gin 0,03 40% alk.",
+                 "img": ""
             },
             {
-              "name": "Smirnoff vodka 0,03 40% alk."
+              "name": "Smirnoff vodka 0,03 40% alk.",
+                 "img": ""
             },
             {
-              "name": "Grey goose vodka 0,03 40% alk."
+              "name": "Grey goose vodka 0,03 40% alk.",
+                 "img": ""
             },
             {
-              "name": "Tequila Two fingers 0,03 40% alk."
+              "name": "Tequila Two fingers 0,03 40% alk.",
+                 "img": ""
             }
           ]
         }
@@ -488,22 +582,28 @@
           "category": "Aperitivi",
           "items": [
             {
-              "name": "Campari Bitter 0,03 32% alk."
+              "name": "Campari Bitter 0,03 32% alk.",
+                 "img": ""
             },
             {
-              "name": "Vermouth Martini /bianco, rosso/ 0,03 16% alk."
+              "name": "Vermouth Martini /bianco, rosso/ 0,03 16% alk.",
+                 "img": ""
             },
             {
-              "name": "Jagermeister 0,03 35% alk."
+              "name": "Jagermeister 0,03 35% alk.",
+                 "img": ""
             },
             {
-              "name": "Baileys 0,03 35% alk."
+              "name": "Baileys 0,03 35% alk.",
+                 "img": ""
             },
             {
-              "name": "Gorki list 0,03 35% alk."
+              "name": "Gorki list 0,03 35% alk.",
+                 "img": ""
             },
             {
-              "name": "Aperol spritz 0,03 35% alk."
+              "name": "Aperol spritz 0,03 35% alk.",
+                 "img": ""
             }
           ]
         }
@@ -515,28 +615,36 @@
           "category": "Rakija",
           "items": [
             {
-              "name": "Jelički dukat 0,03 45% alk."
+              "name": "Jelički dukat 0,03 45% alk.",
+                 "img": ""
             },
             {
-              "name": "Biserka 0,03 45% alk."
+              "name": "Biserka 0,03 45% alk.",
+                 "img": ""
             },
             {
-              "name": "Dragačevka zlatna 0,03 45% alk."
+              "name": "Dragačevka zlatna 0,03 45% alk.",
+                 "img": ""
             },
             {
-              "name": "Licura 0,03 45% alk."
+              "name": "Licura 0,03 45% alk.",
+                 "img": ""
             },
             {
-              "name": "Dunjevača 0,03 40% alk."
+              "name": "Dunjevača 0,03 40% alk.",
+                 "img": ""
             },
             {
-              "name": "Kajsijevača 0,03 40% alk."
+              "name": "Kajsijevača 0,03 40% alk.",
+                 "img": ""
             },
             {
-              "name": "Lozovača 0,03 47% alk."
+              "name": "Lozovača 0,03 47% alk.",
+                 "img": ""
             },
             {
-              "name": "Viljamovka 0,03 40% alk."
+              "name": "Viljamovka 0,03 40% alk.",
+                 "img": ""
             }
           ]
         }
@@ -548,25 +656,32 @@
           "category": "Viski",
           "items": [
             {
-              "name": "Chivas Regal /12 years old/ 0,03 40% alk."
+              "name": "Chivas Regal /12 years old/ 0,03 40% alk.",
+                 "img": ""
             },
             {
-              "name": "Johnnie Walker 0,03 43% alk."
+              "name": "Johnnie Walker 0,03 43% alk.",
+                 "img": ""
             },
             {
-              "name": "Johnnie Walker /Black label/ 0,03 40% alk."
+              "name": "Johnnie Walker /Black label/ 0,03 40% alk.",
+                 "img": ""
             },
             {
-              "name": "Ballentines 0,03 43% alk."
+              "name": "Ballentines 0,03 43% alk.",
+                 "img": ""
             },
             {
-              "name": "Four roses 0,03 40% alk."
+              "name": "Four roses 0,03 40% alk.",
+                 "img": ""
             },
             {
-              "name": "Jack Daniels 0,03 43% alk."
+              "name": "Jack Daniels 0,03 43% alk.",
+                 "img": ""
             },
             {
-              "name": "Jack Daniels /single barel/ 0,03 47% alk."
+              "name": "Jack Daniels /single barel/ 0,03 47% alk.",
+                 "img": ""
             }
           ]
         }
@@ -578,16 +693,20 @@
           "category": "Konjak i Vinjak",
           "items": [
             {
-              "name": "Courvoisier X.O. 0,03 40% alk."
+              "name": "Courvoisier X.O. 0,03 40% alk.",
+                 "img": ""
             },
             {
-              "name": "Courvoisier V.S.O.P. 0,03 40% alk."
+              "name": "Courvoisier V.S.O.P. 0,03 40% alk.",
+                 "img": ""
             },
             {
-              "name": "Hennesy V.S. 0,03 40% alk."
+              "name": "Hennesy V.S. 0,03 40% alk.",
+                 "img": ""
             },
             {
-              "name": "Vinjak 5 0,03 40% alk."
+              "name": "Vinjak 5 0,03 40% alk.",
+                 "img": ""
             }
           ]
         }

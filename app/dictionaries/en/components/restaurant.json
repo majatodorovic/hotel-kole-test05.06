@@ -36,7 +36,8 @@
           "category": "Hot and cold appetizers",
           "items": [
             {
-              "name": "Steak rolls with pumpkin seed dressing"
+              "name": "Steak rolls with pumpkin seed dressing",
+              "img": "/images/restaurant/hrana3.jpg"
             },
             {
               "name": "Gambor spring rolls"
@@ -88,7 +89,8 @@
           "category": "Pasta and risotto",
           "items": [
             {
-              "name": "Penne with turkey in pesto sauce"
+              "name": "Penne with turkey in pesto sauce",
+              "img": "/images/restaurant/hrana7.jpg"
             },
             {
               "name": "Tagliatelle with steak and truffles"
@@ -109,7 +111,8 @@
               "name": "Risotto with three kinds of mushrooms"
             },
             {
-              "name": "Cuban foam"
+              "name": "Cuban foam",
+              "img": "/images/restaurant/hrana10.jpg"
             }
           ]
         }
@@ -134,7 +137,8 @@
               "img": "/images/restaurant/hrana-1.jpg"
             },
             {
-              "name": "Smoked neck with scallion salsa"
+              "name": "Smoked neck with scallion salsa",
+              "img": "/images/restaurant/hrana6.jpg"
             },
             {
               "name": "Chicken in Šumadija style"
@@ -155,7 +159,8 @@
           "category": "Specialties of the \"Kole\" restaurant",
           "items": [
             {
-              "name": "Steak Wellington"
+              "name": "Steak Wellington",
+              "img": "/images/restaurant/hrana8.jpg"
             },
             {
               "name": "Selection of lamb in red wine sauce"
@@ -183,7 +188,8 @@
               "name": "Rib-eye steak (kg)"
             },
             {
-              "name": "Tomahawk steak (kg)"
+              "name": "Tomahawk steak (kg)",
+              "img": "/images/restaurant/hrana5.jpg"
             },
             {
               "description": "*the meat used in the preparation was aged for 40 days in a special chamber for ripening the meat"
@@ -201,13 +207,15 @@
               "name": "Sea bream/sea bass fillet with olive salsa"
             },
             {
-              "name": "Salmon fillet on pea puree"
+              "name": "Salmon fillet on pea puree",
+              "img": "/images/restaurant/hrana2.jpg"
             },
             {
               "name": "Trout fillet"
             },
             {
-              "name": "Grilled Gambori"
+              "name": "Grilled Gambori",
+              "img": "/images/restaurant/hrana1.jpg"
             },
             {
               "name": "Grilled squid"
@@ -252,7 +260,8 @@
               "name": "Carpese salad"
             },
             {
-              "name": "Exotic salad with shrimps"
+              "name": "Exotic salad with shrimps",
+              "img": "/images/restaurant/hrana4.jpg"
             },
             {
               "name": "Octopus salad"
@@ -313,7 +322,7 @@
           "items": [
             {
               "name": "Cheese cake with caramel and pistachios",
-              "img": "/images/restaurant/hrana-5.png"
+              "img": "/images/restaurant/hrana9.jpg"
             },
             {
               "name": "Chocolate tart with ice cream",
